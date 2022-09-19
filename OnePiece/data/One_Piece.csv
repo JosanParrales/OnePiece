@@ -1,0 +1,959 @@
+episode,Arco,name,year,total_votes,average_rating
+1,EastBlue,I'm Luffy! The Man Who Will Become the Pirate King!,28/10/1999,647,7.6
+2,EastBlue,The Great Swordsman Appears! Pirate Hunter Roronoa Zoro,17/11/1999,473,7.8
+3,EastBlue,Morgan vs. Luffy! Who's This Beautiful Young Girl?,24/11/1999,428,7.7
+4,EastBlue,Luffy's Past! The Red-haired Shanks Appears!,08/12/1999,449,8.1
+5,EastBlue,Fear Mysterious Power! Pirate Clown Captain Buggy!,15/12/1999,370,7.5
+6,EastBlue,Desperate Situation! Beast Tamer Mohji vs. Luffy!,29/12/1999,364,7.7
+7,EastBlue,Sozetsu Ketto! Kengo Zoro VS Kyokugei no Kabaji!,29/12/1999,344,7.7
+8,EastBlue,Shousha wa docchi? Akuma no mi no nouryoku taiketsu!,29/12/1999,335,7.7
+9,EastBlue,Seigi no usotsuki? Kyaputen Usoppu,12/01/2000,327,7.3
+10,EastBlue,Chijou saikyou no hen na yatsu! Saiminjutsushi Jango,19/01/2000,314,7.5
+11,EastBlue,Inbou o abake! Kaizoku shitsuji Kyaputen Kuro,26/01/2000,310,7.4
+12,EastBlue,Gekitotsu! Kuroneko kaizokudan sakamichi no daikoubou!,02/02/2000,303,7.8
+13,EastBlue,Kyoufu no futarigumi! Nyâban kyoudai vs Zoro,09/02/2000,295,7.8
+14,EastBlue,Rufi fukkatsu! Kaya ojousama no kesshi no taikou,16/02/2000,292,7.7
+15,EastBlue,Kuro o taose! Otoko Usoppu namida no ketsui!,23/02/2000,286,7.5
+16,EastBlue,Kaya o mamore! Usoppu kaizokudan daikatsuyaku!,01/03/2000,286,7.7
+17,EastBlue,Ikari bakuhatsu! Kuro vs Rufi kecchaku no yukue!,08/03/2000,296,8.1
+18,EastBlue,Anta ga chunjuu! Gaimon to kimyou na nakama,15/03/2000,278,7.1
+19,EastBlue,Santouryuu no kako! Zoro to Kuina no chikai!,22/03/2000,324,8.5
+20,EastBlue,Meibutsu kokku! Kaijou resutoran no Sanji,29/03/2000,279,7.7
+21,EastBlue,Manukarezaru kyaku! Sanji no meshi to Gin on,05/04/2000,267,7.6
+22,EastBlue,Saikyou no kaizoku kantai! Teitoku Don Kurîku,12/04/2000,260,7.6
+23,EastBlue,Mamore Baratie! Daikaizoku akaashi no Zefu,19/04/2000,257,7.7
+24,EastBlue,Tama no me no Mihôku! Kenzoku Zoro umi ni chiru,26/04/2000,340,8.7
+25,EastBlue,Hissatsu ashiwaza sakuretsu! Sanji vs Teppeki no Pâru,03/05/2000,256,7.6
+26,EastBlue,Zefu to Sanji no yume Maboroshi no ôru burû,10/05/2000,274,8.2
+27,EastBlue,Reitetsu hijou no kijin Kaizoku kantai soutaichou Gin,17/05/2000,257,7.6
+28,EastBlue,Shinaneeyo! Gekitou Rufi vs Kurîku!,24/05/2000,252,7.7
+29,EastBlue,Shitou no Ketchaku! Hara ni Kukutta Ippon no Yari!,31/05/2000,249,7.8
+30,EastBlue,Tabidachi! Umi no kokku wa Rufi to tomoni,07/06/2000,268,8.1
+31,EastBlue,Higashi no Umi Saiaku no Otoko! Gyojin Kaizoku Arlong!,14/06/2000,237,7.6
+32,EastBlue,Cocoyashi Mura no Majo! Arlong no Onna Kanbu,21/06/2000,236,7.7
+33,EastBlue,Usopp Shisu?! Luffy Jouriku wa Mada?,28/06/2000,255,7.8
+34,EastBlue,Zen'in Shuuketsu! Usopp ga Kataru Nami no Shinjitsu,05/07/2000,250,7.4
+35,EastBlue,Himerareta Kako! Onna Senshi Bell-mere!,12/07/2000,254,7.9
+36,EastBlue,Ikinuke! Haha Bellemere to Nami no Kizuna!,19/07/2000,277,8.3
+37,EastBlue,Luffy Tatsu! Uragirareta Yakusoku no Ketsumatsu!,19/07/2000,324,8.5
+38,EastBlue,Luffy Dai Pinch! Gyojin Tai Luffy Kaizokudan,26/07/2000,254,8.2
+39,EastBlue,Luffy Suibotsu! Zoro vs Tako no Hacchan,02/08/2000,249,8.0
+40,EastBlue,Hokoritakaki Senshi! Gekitou Sanji to Usopp,09/08/2000,248,8.0
+41,EastBlue,Luffy Zenkai! Nami no Ketsui to Mugiwara Boushi,16/08/2000,249,8.0
+42,EastBlue,Sakuretsu! Gyojin Arlong Umi kara no Moukougeki!,23/08/2000,247,7.9
+43,EastBlue,Gyojin Teikoku no Owari! Nami wa Ore no Nakama Da!,30/08/2000,281,8.2
+44,EastBlue,Egao no Tabidachi! Saraba Furusato Cocoyashi Mura,06/09/2000,245,7.7
+45,EastBlue,Joukinkubi! Mugiwara no Luffy Yo ni Shirewataru,13/09/2000,235,7.6
+46,EastBlue,Mugiwara o Oe! Chiisana Buggy no Daibouken,20/09/2000,245,6.3
+47,EastBlue,Omachikane! Aa Fukkatsu no Buggy Senchou!,27/09/2000,249,6.3
+48,EastBlue,Hajimari to Owari no Machi: Loguetown Jouriku,27/09/2000,241,7.8
+49,EastBlue,Sandai Kitetsu to Yubashiri! Zoro no Shintou to Onna Souchou,11/10/2000,253,7.9
+50,EastBlue,Usopp Tai Kozure no Daddy: Mahiru no Kettou,25/10/2000,233,7.3
+51,EastBlue,Honoo no Ryouri Battle? Sanji VS Bijin Chef,08/11/2000,225,6.8
+52,EastBlue,Buggy no Revenge! Shokeidai de Warau Otoko!,22/11/2000,236,8.1
+53,EastBlue,Densetsu wa Hajimatta! Mezase Grand Line,22/11/2000,243,8.2
+54,EastBlue,Aratanaru Bouken no Yokan! Nazo no Shoujo Apis,29/11/2000,213,7.1
+55,EastBlue,Kiseki no Seibutsu! Apis no Himitsu to Densetsu no Shima,06/12/2000,211,6.8
+56,EastBlue,Eric Shutsugeki! Gunkanjima kara no Daidasshutsu!,13/12/2000,210,6.7
+57,EastBlue,Zekkai no Kotou! Densetsu no Lost Island,20/12/2000,207,6.6
+58,EastBlue,Haikyo no Kettou! Kinpaku no Zoro VS Erik!,27/12/2000,201,6.8
+59,EastBlue,Luffy Kanzen Houi! Teitoku Nelson no Hisaku,03/01/2001,199,7.1
+60,EastBlue,Oozora o Mau Mono! Yomigaeru Sennen no Densetsu!,10/01/2001,195,7.2
+61,EastBlue,Ikari no Kecchaku! Red Line o Norikoero!,17/01/2001,199,7.6
+62,Alabasta,Saisho no Toride? Kyodai Kujira Laboon Arawaru,24/01/2001,215,7.7
+63,Alabasta,Otoko no Yakusoku! Luffy to Kujira Saikai no Chikai,31/01/2001,216,7.4
+64,Alabasta,Kaizoku Kangei no Machi? Whiskey Peak Jouriku,07/02/2001,206,7.7
+65,Alabasta,Sakuretsu Santouryuu! Zoro VS Baroque Works!,14/02/2001,214,8.1
+66,Alabasta,Shinken Shoubu! Luffy VS Zoro Nazo no Daikettou!,21/02/2001,214,7.9
+67,Alabasta,Oujo Vivi o Todokero! Luffy Kaizoku Dan Shukkou,21/02/2001,203,7.7
+68,Alabasta,Ganbare Coby! Coby-Meppo Kaigun Funtou Ki,28/02/2001,205,6.7
+69,Alabasta,Coby-Meppo no Ketsui! Garp Chuujou no Oyagokoro,07/03/2001,202,6.8
+70,Alabasta,Taiko no Shima! Little Garden ni Hisomu Kage!,14/03/2001,203,7.3
+71,Alabasta,Dekkai Kettou! Kyojin Dorry to Brogy,21/03/2001,204,7.5
+72,Alabasta,Luffy Ikaru! Seinaru Kettou ni Hiretsu na Wana!,15/04/2001,202,7.3
+73,Alabasta,Brogy Shouri no Goukyuu! Elbaf no Kecchaku,15/04/2001,200,7.4
+74,Alabasta,Ma no Candle! Munen no Namida to Ikari no Namida,22/04/2001,202,7.5
+75,Alabasta,Luffy o Osou Maryoku! Colors Trap,29/04/2001,197,7.7
+76,Alabasta,Iza Hangeki! Usopp no Kiten to Kaenboshi!,13/05/2001,203,7.6
+77,Alabasta,Saraba Kyojin no Shima! Arabasuta o Mezase,20/05/2001,200,7.5
+78,Alabasta,Nami ga Byouki? Umi ni Furu Yuki no Mukou ni!,27/05/2001,203,7.3
+79,Alabasta,Kishuu! Bliking Gou to Blik no Wapol,03/06/2001,196,7.6
+80,Alabasta,Isha no Inai Shima? Na mo Naki Kuni no Bouken!,17/06/2001,195,7.7
+81,Alabasta,Happy kai? Majo to Yobareta Isha!,24/06/2001,189,7.7
+82,Alabasta,Dolton no Kakugo! Wapol Gundan Shima ni Jouriku,15/07/2001,191,7.6
+83,Alabasta,Yuki no Sumu Shima! Drum-Rocky o Nobore!,12/08/2001,200,7.7
+84,Alabasta,Tonakai wa Aoppana! Chopper no Himitsu,19/08/2001,200,7.7
+85,Alabasta,Hamidashi Mono no Yume! Yabuisha Hiluluk!,19/08/2001,211,8.1
+86,Alabasta,Hiluluk no Sakura to Uketsugareyuku Ishi!,26/08/2001,251,8.6
+87,Alabasta,Versus Wapol Gundan! Bakubaku no Mi no Nouryoku!,02/09/2001,194,7.9
+88,Alabasta,Zoan-kei Akuma no Mi! Chopper Nanadan Henkei,09/09/2001,193,7.7
+89,Alabasta,Oukoku no Shihai Owaru Toki! Shinnen no Hata wa Eien ni,16/09/2001,190,7.7
+90,Alabasta,Hiluluk no Sakura! Drum Rocky no Kiseki,07/10/2001,211,8.3
+91,Alabasta,Sayonara Drum-tou! Boku wa Umi e Deru!,07/10/2001,193,7.9
+92,Alabasta,Arabasta no Eiyuu to Senjou no Ballerina,21/10/2001,193,7.6
+93,Alabasta,Iza Sabaku no Kuni e! Ame o Yobu Kona to Hanrangun,28/10/2001,192,7.2
+94,Alabasta,Gouketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ace,04/11/2001,217,8.4
+95,Alabasta,Ace to Luffy! Atsuki Omoi to Kyoudai no Kizuna,11/11/2001,209,8.1
+96,Alabasta,Midori no Machi Erumaru to Kung Fu Jugon!,18/11/2001,195,7.3
+97,Alabasta,Suna no Kuni no Bouken! Ennetsu no Daichi ni Sumu Mamono,25/11/2001,189,7.4
+98,Alabasta,Sabaku no Kaizokudan Toujou! Jiyuu ni Ikiru Otoko-tachi,02/12/2001,185,7.2
+99,Alabasta,Nisemono no Iji! Kokoro no Hanrangun Kamyu!,09/12/2001,180,7.1
+100,Alabasta,Hanrangun Senshi Kouza! Vivi ni Chikatta Yume!,09/12/2001,181,7.6
+101,Alabasta,Kagerou no Kettou! Ace vs Otoko Scorpion,16/12/2001,177,6.8
+102,Alabasta,Iseki to Mayoigo! Vivi to Nakama to Kuni no Katachi,23/12/2001,168,7.1
+103,Alabasta,Spiders Cafe ni 8-ji Teki Kanbu Shuugou,06/01/2001,179,7.5
+104,Alabasta,Luffy Tai Vivi! Nakama ni Kakeru Namida no Chikai,12/01/2001,180,7.9
+105,Alabasta,Alabasta Sensen! Yume no Machi Rainbase,20/01/2001,175,7.9
+106,Alabasta,Zettai Zetsumei no Wana! Rain Dinners Totsunyuu,27/01/2001,181,8.1
+107,Alabasta,Utopia Sakusen Hatsudou! Ugokidashita Uneri,03/02/2001,175,7.9
+108,Alabasta,Kyoufu no Bananawani to Mr. Prince,10/02/2001,180,8.1
+109,Alabasta,Gyakuten Dai Dasshutsu e no Kagi! Doru-Doru Ball!,17/02/2001,187,8.2
+110,Alabasta,Nasake Muyou no Shitou! Luffy vs Crocodile,24/02/2001,206,8.4
+111,Alabasta,Kiseki e no Shissou! Arabasta Doubutsu Land,03/03/2001,182,7.8
+112,Alabasta,Hanrangun Tai Kokuougun! Kessen wa Alubarna!,10/03/2001,188,8.0
+113,Alabasta,Nageki no Alubarna! Gekitou Carue Taichou!,17/03/2001,181,7.8
+114,Alabasta,Nakama no Yume ni Chikau! Kettou Mogurazuka 4-bangai,24/03/2001,182,7.9
+115,Alabasta,Honjitsu Daikoukai! Mane-Mane Montage!,31/03/2001,189,8.0
+116,Alabasta,Nami ni Henshin! Bon Clay Renpatsu Ballet Kenpou,07/04/2001,176,7.9
+117,Alabasta,Nami no Senpuu Chuuihou! Clima Takt Sakuretsu,14/04/2001,181,8.0
+118,Alabasta,Ouke ni Tsutawaru Himitsu! Kodai Heiki Pluton,21/04/2001,176,7.9
+119,Alabasta,Gouken no Gokui! Koutetsu o Kiru Chikara to Mono no Kokyuu,28/04/2001,213,8.5
+120,Alabasta,Tatakai wa Owatta! Kooza ga Kakageta Shiroi Hata,05/05/2001,177,7.9
+121,Alabasta,Vivi no Koe no Yukue! Hero wa Maiorita!,12/05/2001,182,8.2
+122,Alabasta,Suna Wani to Mizu Luffy! Kettou Dai 2 Round,19/05/2001,185,8.4
+123,Alabasta,Wanippoi! Ouke no Haka e Hashire Luffy!,26/05/2001,180,8.2
+124,Alabasta,Akumu no Toki Semaru! Koko wa Sunasunadan Himitsu Kichi,02/06/2001,179,8.1
+125,Alabasta,Idainaru Tsubasa! Waga Na wa Kuni no Shugoshin Pell,09/06/2001,195,8.5
+126,Alabasta,Koeteiku! Arabasta ni Ame ga Furu!,16/06/2001,302,9.0
+127,Alabasta,Buki yo Saraba! Kaizoku to Ikutsuka no Seigi,23/06/2001,178,8.0
+128,Alabasta,Kaizoku-tachi no Utage to Arabasta Dasshutsu Sakusen!,30/06/2001,179,8.0
+129,Alabasta,Hajimari wa Ano Hi! Vivi ga Kataru Boukentan!,14/07/2001,213,8.5
+130,Alabasta,Kiken na Kaori! Shichininme wa Nico Robin!,21/07/2001,194,8.3
+131,Alabasta,Hajimete no Kranke! Rumble Ball Hiwa,28/07/2001,161,7.0
+132,Alabasta,Koukaishi no Hanran! Yuzurenai Yume no Tame ni!,04/08/2001,156,6.8
+133,Alabasta,Uketsugareru Recipe! Curry no Tetsujin Sanji,11/08/2001,155,6.9
+134,Alabasta,Sakasete Misemasu! Otoko Usopp Hasshakudama,18/08/2001,155,6.9
+135,Alabasta,Uwasa no Kaizokugari! Sasurai no Kenshi Zoro,25/08/2001,156,7.0
+136,Skypea,Yagi no Shima no Zenny to Yama no Naka no Kaizokusen!,01/09/2001,151,6.7
+137,Skypea,Moukarimakka? Kanekashi Zenny no Yabou!,08/09/2001,151,6.9
+138,Skypea,Shima no Otakara no Yukue! Zenny Kaizokudan Shutsugeki!,15/09/2001,148,6.6
+139,Skypea,Niji-iro no Kiri Densetsu! Ruluka Tou no Roujin Henzo,22/09/2001,148,7.2
+140,Skypea,Eien no Kuni no Juunin! Pumpkin Kaizokudan!,29/09/2001,151,6.9
+141,Skypea,Furusato e no Omoi! Dasshutsu Funou no Kaizoku Hakaba!,06/10/2001,145,6.9
+142,Skypea,Ransen Hisshi! Wetton no Yabou to Niji no Tou,13/10/2001,145,6.8
+143,Skypea,Soshite Densetsu ga Hajimaru! Iza Niji no Kanata e,20/10/2001,150,7.5
+144,Skypea,Ubawareta Log! Salvage-ou Mashira!,27/10/2001,158,7.3
+145,Skypea,Kaibutsu Toujou! Shirohige Ichimi ni wa Te o Dasuna,03/11/2001,160,7.5
+146,Skypea,Yume o Miruna! Azakeri no Machi Mock Town!,10/11/2001,157,7.8
+147,Skypea,Kaizoku no Takami! Yume o Kataru Otoko to Kaitei Tansaku Ou,17/11/2001,163,7.5
+148,Skypea,Densetsu no Ichizoku!  ,24/11/2001,158,7.5
+149,Skypea,Kumo Kaji Ippai! Southbird o Oe!,01/12/2001,153,7.4
+150,Skypea,Yume wa Kanawanai!? Bellamy VS Saruyama Rengou,08/12/2001,157,8.0
+151,Skypea,Ichioku no Otoko! Sekai Saikou Kenryoku to Kaizoku Kurohige,15/12/2001,231,8.7
+152,Skypea,Fune wa Sora o Yuku! Knock-Up Stream ni Nore,22/12/2001,159,8.1
+153,Skypea,Koko wa Sora no Umi! Sora no Kishi to Tengoku no Mon,29/12/2001,155,7.9
+154,Skypea,Kami no Kuni Skypiea! Kumo no Nagisa no Tenshi-tachi,05/01/2002,157,7.5
+155,Skypea,Kindan no Seichi! Kami no Sumu Shima to Ten no Sabaki!,12/01/2002,152,7.5
+156,Skypea,Hayaku mo Hanzaisha!? Skypiea no Hou no Bannin,19/01/2002,157,7.6
+157,Skypea,Dasshutsu Naru ka!? Ugokihajimeta Kami no Shiren!,26/01/2002,154,7.6
+158,Skypea,Lovely-doori no Wana! Zennounaru God Enel,02/02/2002,152,7.6
+159,Skypea,Susume Karasumaru! Ikenie no Saidan o Mezase,09/02/2002,151,7.7
+160,Skypea,Seizonritsu 10%! Mantra-tsukai no Shinkan Satori!,16/02/2002,158,7.8
+161,Skypea,Peril of the Ordeal of Balls! Fight to the Death in the Lost Forest,23/02/2002,157,7.7
+162,Skypea,Chopper Ayaushi! Motokami Tai Shinkan Shura,02/03/2002,157,7.8
+163,Skypea,Makafushigi! Himo no Shiren to Koi no Shiren!?,09/03/2002,152,7.8
+164,Skypea,Shandra no Hi o Tomose! Senshi Wiper,16/03/2002,152,7.8
+165,Skypea,Tenkuu no Ougonkyou Jaya! Mezase Kami no Yashiro!,23/03/2002,152,7.7
+166,Skypea,Ougon Zen'yasai!,30/03/2002,149,7.7
+167,Skypea,God Enel Toujou!! Ikinokori e no Aubade,06/04/2002,149,7.6
+168,Skypea,Kibamuku Uwabami! Tsui ni Hajimaru Survival Game,13/04/2002,155,7.6
+169,Skypea,Sutemi no Haigeki (Reject)!  ,20/04/2002,154,7.7
+170,Skypea,Kuuchuu no Gekisen! Kaizoku Zoro VS Senshi Braham,27/04/2002,161,8.0
+171,Skypea,Unaru Burn Bazooka!! Luffy VS Senki Wiper,04/05/2002,155,7.8
+172,Skypea,Numa no Shiren! Chopper VS Shinkan Gedatsu!!,11/05/2002,152,7.8
+173,Skypea,Muteki no Nouryoku! Akasareru Enel no Shoutai,18/05/2002,154,7.9
+174,Skypea,Maburoshi no Miyako! Yuudai Naru Shandra no Iseki!!,25/05/2002,155,7.8
+175,Skypea,Seizonritsu 0%!! Chopper VS Shinkan Ohm,01/06/2002,151,7.8
+176,Skypea,Giant Jack o Nobore!! Jouzou Iseki no Shitou,08/06/2002,156,7.9
+177,Skypea,Tetsu no Shiren no Shinkoccyou! Shiruibara Death Match!!,15/06/2002,160,8.0
+178,Skypea,Hotobashiru Zangeki! Zoro VS Shinkan Ohm!!,22/06/2002,161,8.2
+179,Skypea,Kuzure Yuku Jousou Iseki! Finale e no Quintet!!,29/06/2002,160,8.2
+180,Skypea,Kodai Iseki no Taiketsu! God Enel no Mokuteki!!,06/07/2002,161,8.4
+181,Skypea,Fairy Vearth e no Yabou Hakobune Maxim!!,13/07/2002,157,8.2
+182,Skypea,Tsuini Gekitotsu! Kaizoku Luffy VS God Enel!!,20/07/2002,173,8.4
+183,Skypea,Maxim Fujou! Ugoki Hajimeta Deathpiea!!,27/07/2002,164,8.4
+184,Skypea,Luffy Rakka! Kami no Sabaki to Nami no Nozomi!!,03/08/2002,157,8.0
+185,Skypea,Mezameta Futari! Moeru Koi no Kyuushutsu Zensen,10/08/2002,164,8.2
+186,Skypea,Zetsubou e no Capriccio Semaei Kuru Sora Shima no Shoumetsu!!,17/08/2002,156,7.8
+187,Skypea,Kane no Ne no Michibiki! Daisenshi to Tankenka no Monogatari,24/08/2002,154,7.7
+188,Skypea,Jubaku kara no Kaihou! Daisenshi ga Nagashita Namida!!,31/08/2002,150,7.7
+189,Skypea,Eien no Shinyuu! Oo-unabari ni Hibikuchikai no Kane!!,07/09/2002,174,8.3
+190,Skypea,Angel-tou Shoumetsu! Raigou Kourin no Kyoufu!!,14/09/2002,151,8.0
+191,Skypea,Giant Jack o Taose! Dasshutsu e no Saigo no Nozomi,21/09/2002,151,8.0
+192,Skypea,Kami no Kune no Kiseki! Tenshi no Todoita Love Song,28/09/2002,166,8.4
+193,Skypea,Tatakai no Shuuen! Tooku Hibiku Hokori Takaki Fantasia,05/10/2002,150,7.8
+194,Skypea,Ware Koko ni Itaru! Poneglyphs ga Tsumugu Mono,12/10/2002,150,7.9
+195,Skypea,Iza Seikai e!! Omoi ga Orinasu Saishuu Gakushou,19/10/2002,154,7.8
+196,Skypea,Hijoujitai Hatsurei! Akumei Takaki Kaisokusen Sennyuu!,26/10/2002,143,7.2
+197,Skypea,Ryourinin Sanji! Kaigun Shokudou de Shinka Hakki!,02/11/2002,141,7.4
+198,Skypea,Torawareru Zoro to Chopper Kinkyuu Shittou,09/11/2002,143,7.1
+199,Skypea,Semaru Kaigun no Sousa mou! Torawareta Futari Me!,16/11/2002,142,7.4
+200,Skypea,Kesshi no Luffy to Sanji! Kyuushutsu Dai Sakusen!,23/11/2002,137,7.6
+201,Skypea,Nekketsu Tokubetsu Butai Sansen! Bridge Koubousen!,30/11/2002,135,7.5
+202,Skypea,Houi Mou Toppa! Dakkan Going Merry Gou,07/12/2002,139,7.4
+203,Skypea,Kieta Kaizokusen! Yousai Koubou Dai 2 Round,14/12/2002,141,7.3
+204,Skypea,Ougon Dakkan Sakusen to Waver Kaishuu Sakusen!,21/12/2002,137,7.4
+205,Skypea,Ichimoudajin Keikaku! Jonathan Jishin no Hisaku,28/12/2002,137,7.5
+206,Skypea,Saraba Kaigun Yousai! Dasshutsu e no Saigo no Koubou,04/01/2003,141,7.6
+207,Water7,Long Ring Long Land no Dai Bouken!,11/01/2003,144,7.4
+208,Water7,Foxy Kaizoku Dan to Davy Back!,18/01/2003,146,7.4
+209,Water7,Dai Ikkaisen! Gururi Isshuu Doughnut Race,25/01/2003,143,7.5
+210,Water7,Gingitsune no Foxy! Mouretsu Bougai Kousei,01/02/2003,149,7.3
+211,Water7,Dai 2 Kaisen! Buchi Kome Groggy Ring,08/02/2003,152,7.5
+212,Water7,Red Card Renpatsu! Groggy Ring,15/02/2003,145,7.7
+213,Water7,Dai Sankaisen! Guru Guru Roller Race!,22/02/2003,143,7.3
+214,Water7,Hakunetsu Bakusou Race! Saishuu Round Totsunyuu!,01/03/2003,139,7.6
+215,Water7,Unaru Netsukyuu Goukyuu! Kaizoku Dodgeball!,08/03/2003,145,7.1
+216,Water7,Dangai no Kessen! Daruma-san ga Koronda!,15/03/2003,146,7.1
+217,Water7,Captain Taiketsu! Saishuusen Combat!,22/03/2003,152,7.2
+218,Water7,Zenkai Noro Noro Kougeki VS Fujimi no Luffy,29/03/2003,149,7.3
+219,Water7,Souzetsu Nettou Combat! Unmei no Saishuu Kecchaku,05/04/2003,144,7.6
+220,Water7,Ushinatta? Ubawareta? Omae wa Dare Da?,12/04/2003,132,7.4
+221,Water7,Fue o Idaita Nazo no Shounen to Robin no Suiri!,19/04/2003,134,7.1
+222,Water7,Iza Kioku o Dakkan Seyo! Kaizoku Dan Shima ni Jouriku,26/04/2003,138,6.9
+223,Water7,Kiba o Muku Zoro! Tachihadakatta Yajuu!,03/05/2003,131,7.3
+224,Water7,Honjou o Awarashita Kioku Dorobou no Saigo Gyakushuu,10/05/2003,131,7.0
+225,Water7,Hokori takaki otoko! Gin Gitsune no Foxy,17/05/2003,137,6.8
+226,Water7,Mottomo Muteki ni Tsuyoi Yatsu? Tomottomo Kiken na Otoko!,24/05/2003,139,6.8
+227,Water7,Kaigun Honbu Taishou Aokiji! Saikou Senryoku no Kyoui,31/05/2003,159,8.3
+228,Water7,Gomu to Koori no Ikkiuchi! Luffy vs Aokiji,07/06/2003,151,8.0
+229,Water7,Shissou Umi Ressha to Mizu no Toshi Water Seven,14/06/2003,148,7.6
+230,Water7,Suijou Toshi no Bouken! Mokushise Kyodai Zousen Koujou,21/06/2003,146,7.7
+231,Water7,Franky ikka to Iceberg san!,28/06/2003,146,7.7
+232,Water7,Garera Company! Soukan Ichiban Dock,05/07/2003,147,7.7
+233,Water7,Kaizoku Yuukai Jiken to Shi o Matsu Dake no Kaizokusen,12/07/2003,150,7.6
+234,Water7,Nakama Kyuushutsu! Harikomi Franky House,19/07/2003,167,8.4
+235,Water7,Gekka no Oogenka! Kanashimi ni Hirugaeru Kaizokuki!,26/07/2003,196,8.6
+236,Water7,Luffy VS Usopp! Butsukaru Otoko no Iji,02/08/2003,249,8.9
+237,Water7,Genkishin Mizu no Toshi! Nerawareta Iceberg,09/08/2003,145,7.8
+238,Water7,Gomu Gomu Ningen VS Ka o Fuku Cyborg,16/08/2003,145,8.0
+239,Water7,Hannin wa Mugiwara Kaizukudan? Mizu no Toshi Youjinbou,23/08/2003,146,7.8
+240,Water7,Eien no Wakare? Yamo o Hiku Onna Nico Robin,30/08/2003,142,7.8
+241,Water7,Robin o Tsukamaero! Mugiwara Ichimi no Ketsui,06/09/2003,142,7.7
+242,Water7,Aizu wa Hougeki to Tomoni! Ugokidashita CP9,13/09/2003,143,8.0
+243,Water7,Kamen o Totta CP9! Sono Odoroki no Sugao,20/09/2003,154,8.4
+244,Water7,Himeta Kizuna! Iceberg to Franky,27/09/2003,152,8.3
+245,Water7,Kaete Koi Robin! CP9 to no Taiketsu!,04/10/2003,151,8.2
+246,Water7,Mugiwara Kaizoku Dan Zenmetsu? Model Leopard no Kyoui,11/10/2003,141,8.0
+247,Water7,Fune kara mo Aisareta Otoko! Usopp no Namida!,18/10/2003,141,7.9
+248,Water7,Franky no Kako! Umi ressha ga Hashitta Hi,25/10/2003,147,8.0
+249,Water7,Spandum no Inbou! Umi Ressha ga Yureta Hi,01/11/2003,149,8.0
+250,Water7,Densetsu no Otoko no Saigo! Umi Ressha ga Naita Hi,08/11/2003,155,8.2
+251,Water7,Uragiri no Shinsou! Robin no Kanashiki Ketsui!,15/11/2003,149,8.3
+252,Water7,Nakama o Hikihanasu Kiteki! Hashiridasu Umi Ressha,22/11/2003,137,7.9
+253,Water7,Sanji Totsunyuu! Arashi no Naka no Umiressha Battle!,29/11/2003,143,7.7
+254,Water7,Nami Tamashii no Sakebi! Mugiwara no Luffy Fukkatsu!,06/12/2003,148,8.0
+255,Water7,Mou Hitotsu no Umi Ressha! Rocketman Shutsugeki,13/12/2003,142,8.0
+256,Water7,Nakama o Sukue! Tekidoushi ga Musunda Chikai no Kizuna!,20/12/2003,146,7.9
+257,Water7,Nami o Kudake! Luffy to Zoro no Saikyou Combo,27/12/2003,144,8.1
+258,Water7,Nazo no Otoko Toujou!? Sono Na wa Sogeking!,03/01/2004,149,8.2
+259,Water7,Kokku Taiketsu! Sanji vs Ramen Kenpou,10/01/2004,138,7.6
+260,Water7,Yane no Ue no Kettou! Franky VS Nero,17/01/2004,138,7.8
+261,Water7,Gekitotsu! Onigiri Zoro VS Funekiri T-Bone,24/01/2004,141,8.0
+262,Water7,Robin Soudatsusen! Sogeking no Kisaku!!,31/01/2004,148,8.3
+263,Water7,Shihou no shima! Enies Lobby!,07/02/2004,145,8.1
+264,Water7,Jouriku Sakusen Shidou! Mugiwara Ichimi Totsunyuu Seyo!,14/02/2004,145,8.1
+265,Water7,Luffy Kaishingeki! Shihou no Shima de Daikessen!!,21/02/2004,150,8.0
+266,Water7,Kyojinzoku to no Koubou! Daini no Tobira o Akero!,28/02/2004,145,7.9
+267,Water7,Katsuro o Hirake! Sora o Tobu Rocketman!,06/03/2004,144,8.1
+268,Water7,Luffy ni Oitsuke! Mugiwara Ichimi Souryokusen,13/03/2004,146,8.1
+269,Water7,Uragirareta Robin! Sekai Seifu no Omowaku!,20/03/2004,145,8.1
+270,Water7,Robin o Kaese! Luffy VS Blueno!,27/03/2004,155,8.3
+271,Water7,Tachidomaru na! Hangeki no Noroshi o Agero!,03/04/2004,145,8.0
+272,Water7,Luffy Mokuzen! Saibansho Mae hiroba e Shuuketsu Seyo,10/04/2004,151,8.2
+273,Water7,Subete wa Nakama o Mamoru Tame ni! Gear Second Hatsudou,17/04/2004,168,8.5
+274,Water7,Kotaero Robin! Mugiwara Ichimi no Sakebi!!,24/04/2004,173,8.6
+275,Water7,Robin no Kako! Akuma to Yobareta Shoujo!,01/05/2004,161,8.3
+276,Water7,Shukumei no Oyako! Sono Haha no Na wa Orubia!,08/05/2004,158,8.3
+277,Water7,Ohara no Higeki! Buster Call no Kyoufu,15/05/2004,172,8.5
+278,Water7,Ikitai to Ie! Oretachi wa Nakama Da!!,22/05/2004,280,9.1
+279,Water7,Taki ni Mukatte Tobe!! Luffy no Omoi!!,29/05/2004,132,6.9
+280,Water7,Otoko no Ikizama! Zoro no Waza Usopp no Yume,05/06/2004,131,6.6
+281,Water7,Namida ga Tsumuida Nakama no Kizuna! Nami no Sekai Chizu,12/06/2004,134,6.6
+282,Water7,Wakare ga Otoko o Migaku! Sanji to Chopper,19/06/2004,126,6.7
+283,Water7,Subete wa Nakama no Tame ni! Yami no Naka no Robin!,26/06/2004,131,6.6
+284,Water7,Sekkeizu wa Watasanai! Franky no Ketsudan,03/07/2004,143,7.9
+285,Water7,Itsutsu no Kagi o Ubae! Mugiwara Ichimi Tai CP9,10/07/2004,142,8.0
+286,Water7,Akuma no Mi no Chikara! Kaku to Jabra Daihenshin,17/07/2004,143,8.0
+287,Water7,Shinde mo Keran! Sanji Otoko no Kishidou!,24/07/2004,140,8.0
+288,Water7,Fukurou no Gosan! Ore no Cola wa Inochi no Mizu!,31/07/2004,143,8.2
+289,Water7,Zoro Shinwaza Sakuretsu! Katana no Na wa Sogeking?,07/08/2004,146,8.1
+290,Water7,Seigyo Funou! Chopper Kindan no Rumble,14/08/2004,142,8.1
+291,Water7,Luffy Oyabun Futatabi! Yume ka Utsutsu ka Tomikuji Soudou,21/08/2004,136,6.2
+292,Water7,Oshiro de Mochimaki Dai Race! Akai Hana no Inbou,28/08/2004,134,6.0
+293,Water7,Awa Tsukai Kalifa! Nami ni Semaru Sekken no Wana,04/09/2004,141,7.8
+294,Water7,Hibikiwataru Kyouhou! Hatsudou Buster Call,11/09/2004,141,8.1
+295,Water7,Gonin no Nami? Hangeki wa Shinkirou to Tomo ni!,18/09/2004,138,7.8
+296,Water7,Nami no Ketsudan! Bousou Chopper o Ute!,25/09/2004,151,8.2
+297,Water7,Kariudo Sanji Toujou? Usotsuki Ookami ni Okuru Banka,02/10/2004,139,8.1
+298,Water7,Shakunetsu no Keri! Sanji Ashiwaza no Full Course,09/10/2004,147,8.2
+299,Water7,Hakujin no Moushuu! Zoro Tai Kaku Kyouryoku Zangeki Taiketsu,16/10/2004,145,8.2
+300,Water7,Kishin Zoro! Kihaku ga Miseta Asura no Keshin,23/10/2004,203,8.7
+301,Water7,Spandam Kyougaku! Shihou no Tou ni Tatsu Eiyuu,30/10/2004,162,8.6
+302,Water7,Robin Kaihou! Luffy Tai Lucci Choujou Kessen,06/11/2004,152,8.1
+303,Water7,Hannin wa Luffy Oyabun? Kieta Oozakura o Oe,13/11/2004,129,6.2
+304,Water7,Katenakya Daremo Mamorenai! Gear Third Shidou,20/11/2004,158,8.4
+305,Water7,Senritsu no Kako! Yami no Seigi to Rob Lucci,27/11/2004,148,8.3
+306,Water7,Maboroshi no Ningyo Arawaru? Usureyuku Ishiki no Naka de,04/12/2004,143,8.1
+307,Water7,Houka ni Shizumu Shima! Franky Munen no Sakebi,11/12/2004,143,8.2
+308,Water7,Luffy o Mate! Tamerai no Hashi no Shitou!,18/12/2004,149,8.4
+309,Water7,Kobushi ni Kometa Omoi! Luffy Konshin no Gatling,25/12/2004,271,9.0
+310,Water7,Tomo Umi yori Kitaru! Mugiwara Ichimi Saikyou no Kizuna,01/01/2005,158,8.4
+311,Water7,Zen'in Dai Dasshutsu! Shousha no Michi wa Kaizoku no Tame ni,08/01/2005,155,8.4
+312,Water7,Arigatou Merry! Yuki ni Kemuru Wakare no Umi,15/01/2005,273,9.0
+313,Water7,Yaburareta Ansoku! Ai no Kobushi o Motsu Kaigun Chuujou,22/01/2005,150,8.3
+314,Water7,Saikyou no Kakei? Akasareta Luffy no Chichi!,29/01/2005,188,8.5
+315,Water7,Sono Na wa Shinsekai! Grand Line no Yukue,05/02/2005,146,8.0
+316,Water7,Shanks Ugoku! Bousou Suru Jidai e no Kusabi,12/02/2005,184,8.5
+317,Water7,Yagara o Sagasu Shoujo! Mizu no Miyako Daisousasen,19/02/2005,130,6.3
+318,Water7,Haha wa Tsuyoshi! Zoro no Dotabata Kaji Tetsudai,26/02/2005,133,6.1
+319,Water7,Sanji Shougeki! Nazo no Jii-san to Gekiuma Ryouri,05/03/2005,134,6.5
+320,Water7,Tsui ni Zen'in Shoukin Kubi! 6-okugoe no Ichimi!,12/03/2005,140,7.9
+321,Water7,Umi o Nozomu Hyakujuu no Ou! Yume no Fune Doudou Kansei!,19/03/2005,136,8.0
+322,Water7,Saraba Itoshiki Kobun-tachi! Franky Tatsu,26/03/2005,137,7.9
+323,Water7,Shukkou Mizu no Miyako! Otoko Usopp Kettou no Kejime,02/04/2005,144,8.1
+324,Water7,Meguru Tehaisho! Kokyou wa Odoru Fune wa Susumu!,09/04/2005,140,7.9
+325,ThrillerBark,Saikyou no Nouryoku! Ace o Osou Kurohige no Yami,16/04/2005,177,8.6
+326,ThrillerBark,Nazo no Kaizoku Goikkou! Sunny-gou to Kiken na Wana,23/04/2005,128,6.8
+327,ThrillerBark,Sunny-gou Pinch! Unare Chousoku no Himitsu Mecha,30/04/2005,129,6.2
+328,ThrillerBark,Shinsekai ni Shizumu Yume! Shitsui no Kaizoku Puzzle,07/05/2005,129,6.4
+329,ThrillerBark,Osoikuru Shikaku-tachi! Hyoujou Dai Battle Kaishi,14/05/2005,127,6.7
+330,ThrillerBark,Dai Kusen Mugiwara Ichimi! Hata ni Kakeru Kaizoku Tamashii,21/05/2005,123,6.5
+331,ThrillerBark,Atsukurushisa Zenkai! Semaru Futago no Jiryoku Power,28/05/2005,125,6.6
+332,ThrillerBark,Dai Konran no Yakata! Ikaru Don to Toraware no Ichimi,04/06/2005,124,6.6
+333,ThrillerBark,Fushichou Futatabi! Tomo ni Chikau Kaizokuki no Yume,11/06/2005,123,6.5
+334,ThrillerBark,Atsu Atsu Choukessen! Luffy VS Shakunetsu no Don,18/06/2005,123,6.7
+335,ThrillerBark,Shin Sekai de Matsu! Isamashiki Kaizoku to no Wakare,25/06/2005,124,6.6
+336,ThrillerBark,Shutsudou Chopperman! Mamore Nagisa no TV-kyoku,02/07/2005,133,5.6
+337,ThrillerBark,Ma no Umi Totsunyuu! Kiri ni Ukabu Nazo no Gaikotsu,09/07/2005,141,8.2
+338,ThrillerBark,Hito ni Aeta Yorokobi! Gaikotsu Shinshi no Shoutai,16/07/2005,133,7.9
+339,ThrillerBark,Kai Genshou Zokuzoku! Thriller Bark Jouriku,23/07/2005,133,7.7
+340,ThrillerBark,Tensai to Yobareta Otoko! Hogback Arawaru!,30/07/2005,130,7.8
+341,ThrillerBark,Nami Dai Pinch! Zombie Yashiki to Toumei Ningen,06/08/2005,138,7.9
+342,ThrillerBark,Zombie no Nazo! Akumu no Hogback Kenkyuujo,13/08/2005,134,7.7
+343,ThrillerBark,Sono Na wa Moriah! Kage o Nigiru Dai Kaizoku no Wana,20/08/2005,123,7.8
+344,ThrillerBark,Zombie Song no Kyouen! Youchi no Kane wa Yami no Oto,27/08/2005,128,7.6
+345,ThrillerBark,Doubutsu Ippai? Perona no Wonder Garden,03/09/2005,126,7.5
+346,ThrillerBark,Kieru Mugiwara Ichimi! Arawareta Nazo no Kenshi!,10/09/2005,125,7.8
+347,ThrillerBark,Nokoru Kishidou! Nami o Mamoru Uragiri Zombie,17/09/2005,127,7.7
+348,ThrillerBark,Sora kara Sanjou! Kenkyou Hanauta wa Ano Otoko!,24/09/2005,128,7.9
+349,ThrillerBark,Luffy Kinkyuujitai! Saikyou no Kage no Ikisaki,01/10/2005,128,7.8
+350,ThrillerBark,Majin to Yobareta Senshi!! Oz Fukkatsu no Toki,08/10/2005,126,7.9
+351,ThrillerBark,500-nenburi no Mezame!! Oars Kaigan!!,15/10/2005,126,7.8
+352,ThrillerBark,Shinnen no Inochigoi!! Afro o Mamoru Brook,22/10/2005,128,7.8
+353,ThrillerBark,Otoko no Chikai wa Shinazu!! Tooi Sora de Matsu Tomo e,29/10/2005,133,8.0
+354,ThrillerBark,Kanarazu Ai ni Iku!! Brook to Yakusoku no Misaki,05/11/2005,124,7.4
+355,ThrillerBark,Meshi to Nami to Kage!! Luffy Ikari no Daihangeki,12/11/2005,123,7.8
+356,ThrillerBark,Usopp Saikyou? Negative wa Makasetoke,19/11/2005,123,7.8
+357,ThrillerBark,General Zombie Shunsatsu!! Oars wa Bouken Kibun!!,26/11/2005,124,7.8
+358,ThrillerBark,Honoo no Knight Sanji!! Keritsubuse Itsuwari no Kyoshiki,03/12/2005,125,7.6
+359,ThrillerBark,Suke Suke no Innen? Ubawareta Sanji no Yume,10/12/2005,127,7.6
+360,ThrillerBark,Tasukete Hero!? Teki wa Fujimi no Princess,17/12/2005,125,7.8
+361,ThrillerBark,Perona Kyoufu!? Uso no U wa Usopp no U,24/12/2005,127,7.7
+362,ThrillerBark,Yane ni Mau Zangeki!! Kecchaku Zoro Tai Ryuuma,31/12/2005,131,7.9
+363,ThrillerBark,Chopper Gekido!! Hogback Ma no Ijutsu,07/01/2006,124,7.7
+364,ThrillerBark,Oz Hoeru!! Detekoi Mugiwara no Ichimi,14/01/2006,129,7.3
+365,ThrillerBark,Teki wa Luffy!! Saikyou Zombie Tai Mugiwara no Ichimi,21/01/2006,126,7.6
+366,ThrillerBark,Taorero Absalom!! Nami Yuujou no Raigeki!!,28/01/2006,126,7.7
+367,ThrillerBark,Ubae Down!! Hissatsu Mugiwara Docking?,04/02/2006,132,8.0
+368,ThrillerBark,Ashioto Naki Shuurai!! Nazo no Boumonsha: Boukun Kuma,11/02/2006,131,7.8
+369,ThrillerBark,Oars Plus Moriah: Chikara to Zunou no Saikyou Gattai,18/02/2006,129,7.9
+370,ThrillerBark,Gyakuten e no Hisaku: Nightmare Luffy Kenzan,25/02/2006,132,7.9
+371,ThrillerBark,Kaimetsu Mugiwara Ichimi: Kagekage no Chikara Zenkai,04/03/2006,132,8.0
+372,ThrillerBark,Chouzetsu Battle Start! Luffy vs Luffy,11/03/2006,143,8.3
+373,ThrillerBark,Kecchaku Semaru! Tatakikome Todome no Ichigeki,18/03/2006,139,8.2
+374,ThrillerBark,Karada ga Kieru! Akumu no Shima ni Sasu Asahi!,25/03/2006,139,8.1
+375,ThrillerBark,Owaranai Kiki! Mugiwara Ichimi Massatsu Shirei,01/04/2006,135,8.0
+376,ThrillerBark,Subete o Hajiku: Kuma no Nikyunikyu no Chikara,08/04/2006,156,8.3
+377,ThrillerBark,Nakama no Itami wa Waga Itami: Zoro Kesshi no Tatakai,15/04/2006,359,9.2
+378,ThrillerBark,Tooi Hi no Yakusoku: Kaizoku no Uta to Chiisana Kujira,22/04/2006,135,7.9
+379,ThrillerBark,Brook no Kako: Youki na Nakama Kanashiki Wakare,29/04/2006,132,7.8
+380,ThrillerBark,Binks no Sake: Kako to Genzai o Tsunagu Uta,06/05/2006,152,8.4
+381,ThrillerBark,Arata na Nakama! Ongakuka Hanauta no Brook,13/05/2006,129,8.0
+382,ThrillerBark,Noronoro no Kyoui: Gingitsune no Foxy Futatabi,20/05/2006,124,6.5
+383,ThrillerBark,Otakara Daisoudatsusen! Houkai! Spa Island Gou,27/05/2006,126,6.5
+384,ThrillerBark,Brook's Hard Struggle the Difficult Path to Becoming a True C...,03/06/2006,125,7.4
+385,Marineford,Halfway Through the Grand Line Arrival! The Red Line,10/06/2006,127,7.7
+386,Marineford,Hatred of the Straw Hat Crew Enter Iron Mask Duval,17/06/2006,127,7.7
+387,Marineford,The Fated Reunion! Save the Imprisoned Fishman,24/06/2006,125,7.6
+388,Marineford,Tragedy! The Truth of the Unmasked Duval,01/07/2006,124,7.8
+389,Marineford,Explosion! The Sunny's Super Secret Weapon Gaon Cannon,08/07/2006,124,7.8
+390,Marineford,Gyojin-tou o Mezashite Jouriku: Sabaody Shotou,15/07/2006,128,7.6
+391,Marineford,Bougyaku! Sabaody no Shihaisha Tenryuubito,22/07/2006,124,7.9
+392,Marineford,Arata na Rival Shuuketsu! 11-nin no Choushinsei,29/07/2006,133,8.0
+393,Marineford,Hyouteki wa Camie!! Semaru Hitosaraiya no Mashu,05/08/2006,128,7.8
+394,Marineford,Camie o Sukue: Shotou ni Nokoru Ankoku no Rekishi,12/08/2006,132,7.8
+395,Marineford,Time Limit: Human Auction Kaimaku,19/08/2006,135,8.0
+396,Marineford,Tekken Sakuretsu! Auction o Buttsubuse,26/08/2006,194,8.7
+397,Marineford,Dai Panic! Auction Kaijou no Shitou,02/09/2006,177,8.7
+398,Marineford,Taishou Kizaru Ugoku! Souzen Sabaody Shotou,09/09/2006,145,8.3
+399,Marineford,Houimou o Toppa Seyo! Kaigun Tai Sannin no Senchou,16/09/2006,143,8.2
+400,Marineford,Roger to Rayleigh: Kaizoku Ou to Sono Migiude,23/09/2006,176,8.5
+401,Marineford,Kaihi Fukanou!? Taishou Kizaru no Kousoku no Keri,30/09/2006,144,8.3
+402,Marineford,Attouteki! Kaigun no Sentou Heiki Pacifista,07/10/2006,140,8.3
+403,Marineford,Saranaru Kyouteki Arawaru! Masakari Katsuida Sentoumaru,14/10/2006,145,8.4
+404,Marineford,Taishou Kizuru no Moukou Mugiwara Ichimi Zettaizetsumei!,21/10/2006,189,8.8
+405,Marineford,Kesareta Nakama-tachi: Mugiwara Ichimi Saigo no Hi,28/10/2006,358,9.2
+406,Marineford,Jidaigeki Tokubetsu Hen: Luffy Oyabun Futatabi Kenzan,04/11/2006,122,6.1
+407,Marineford,Jidaigeki Tokubetsu Hen: Yabure! Thriller Shoukai no Wana,11/11/2006,118,6.1
+408,Marineford,Jouriku! Danshi Kinsei no Shima Amazon Lily,18/11/2006,130,7.7
+409,Marineford,Isoge! Nakama-tachi no Moto e: Nyougashima no Bouken,25/11/2006,129,7.7
+410,Marineford,Minna Meromero! Kaizoku Jotei Hancock,02/12/2006,131,7.6
+411,Marineford,Senaka ni Kakusareta Himitsu: Souguu Luffy to Hebihime,09/12/2006,126,7.8
+412,Marineford,Hijou no Sabaki! Ishi ni Sareta Margaret!!,16/12/2006,129,8.0
+413,Marineford,Luffy Daikusen! Hebi Shimai no Haki no Chikara!!,23/12/2006,136,8.2
+414,Marineford,Nouryoku Zenkai Battle!! Gomugomu Tai Hebihebi,30/12/2006,128,8.2
+415,Marineford,Hancock no Kokuhaku: Shimai no Imawashiki Kako,06/01/2007,133,8.2
+416,Marineford,Ace o Sukue! Arata na Mokutekichi wa Daikangoku,13/01/2007,132,8.1
+417,Marineford,Koi wa Hurricane! Meromero Hancock,20/01/2007,139,8.1
+418,Marineford,Nakama-tachi no Yukue: Tenkou no Kagaku to Karakurijima,27/01/2007,127,7.8
+419,Marineford,Nakama-tachi no Yukue: Kyochou no Shima to Momoiro no Rakuen!,03/02/2007,126,7.4
+420,Marineford,Nakama-tachi no Yukue: Shima o Tsunagu Hashi to Shokujin Shok...,10/02/2007,127,7.7
+421,Marineford,Nakama-tachi no Yukue: Negative Princess to Akuma Ou,17/02/2007,126,7.7
+422,Marineford,Kesshi no Sennyuu! Kaitei Kangoku Impel Down Sennyuu!,24/02/2007,125,7.8
+423,Marineford,Jigoku de Saikai!? Bara Bara no Mi no Jitsuryokusha!,03/03/2007,126,7.8
+424,Marineford,Yabure! Guren Jigoku: Buggy no Dohade Daisakusen,10/03/2007,125,7.7
+425,Marineford,Kangoku Saikyou no Otoko! Doku Ningen Magellan Toujou,17/03/2007,125,7.7
+426,Marineford,Eiga Rendou Special: Ugokidasu Kinjishi no Yabou,24/03/2007,118,6.9
+427,Marineford,Eiga Rendou Special: Nerawareta Little EastBlue,31/03/2007,115,6.5
+428,Marineford,Eiga Rendou Special: Amigo Kaizokudan no Moukou,07/04/2007,116,6.6
+429,Marineford,Eiga Rendou Special: Kessen! Luffy Tai Largo,14/04/2007,115,6.6
+430,Marineford,Toraware no Ouka Shichibukai! Kaikyou no Jinbee,21/04/2007,121,7.8
+431,Marineford,Roubanchou Saldeath no Wana: Level 3 Kiga Jigoku,28/04/2007,118,7.7
+432,Marineford,Tokihanatareta Swan! Saikai! Bon Clay,05/05/2007,122,7.9
+433,Marineford,Shochou Magellan Ugoku: Kansei! Mugiwara Houimou,12/05/2007,132,8.1
+434,Marineford,Zensenryoku Shuuketsu! Level 4 Shounetsu Jigoku no Kessen,19/05/2007,125,7.7
+435,Marineford,Magellan Tsuyoshi! Bon Clay Tekizen Toubou,26/05/2007,134,8.0
+436,Marineford,Shiyuu Kessu! Sutemi no Luffy Saigo no Ichigeki,02/06/2007,139,8.1
+437,Marineford,Dachi Dakara: Bon Clay Kesshi no Kyuushutsukou,09/06/2007,127,7.9
+438,Marineford,Jigoku ni Rakuen! Impel Down Level 5.5,16/06/2007,124,7.7
+439,Marineford,Luffy Chiryou Kaishi: Ivan-san Kiseki no Chikara!!,23/06/2007,122,7.4
+440,Marineford,Kiseki o Shinjite! Bon Clay Tamashii no Seien,30/06/2007,128,7.5
+441,Marineford,Luffy Fukkatsu! Iwa-san Datsugoku Keikaku Shidou!!,07/07/2007,125,7.9
+442,Marineford,Ace Gosou Kaishi: Saikasou Level 6 no Koubou!,14/07/2007,127,8.0
+443,Marineford,Saikyou Team Kessei: Shinkan! Inpel Down,21/07/2007,129,8.0
+444,Marineford,Saranaru Konran! Kurohige Teach Shuurai!,28/07/2007,127,7.9
+445,Marineford,Kiken na Deai! Kurohige to Ame no Shiryuu,04/08/2007,126,7.9
+446,Marineford,Iji demo Taorenu! Honki no Hannyabaru,11/08/2007,129,8.1
+447,Marineford,Ikari no Jet Pistol: Luffy vs Kurohige,18/08/2007,152,8.3
+448,Marineford,Magellan o Tomero! Iva-san Ougi Sakuretsu,25/08/2007,124,7.8
+449,Marineford,Magellan no Kisaku! Habamareta Datsugoku Keikaku,01/09/2007,123,7.9
+450,Marineford,Datsugoku Team Zettaizetsumei: Kinjite  ,08/09/2007,134,8.4
+451,Marineford,Okose Saigo no Kiseki: Seigi no Mon o Toppa Seyo,15/09/2007,150,8.5
+452,Marineford,Mezase Kaigun Honbu: Ace Kyuushutsu e no Funade!,22/09/2007,123,7.9
+453,Marineford,Nakama-tachi no Yukue: Weatheria Report to Cyborg Animal,29/09/2007,118,7.3
+454,Marineford,Nakama-tachi no Yukue: Kyochou no Hina to Momoiro no Taiketsu,06/10/2007,121,6.8
+455,Marineford,Nakama-tachi no Yukue: Kakumeigun to Boushoku no Mori no Wana!,13/10/2007,116,7.3
+456,Marineford,Nakama-tachi no Yukue: Kyodai na Bohyou to Pantsu no On,20/10/2007,118,7.3
+457,Marineford,Marineford Chokuzen Kaisou Special: Kyoudai no Chikai!,27/10/2007,122,7.2
+458,Marineford,Marineford Chokuzen Kaisou Special: Shuuketsu! San Taishou,03/11/2007,131,6.9
+459,Marineford,Kessen no Toki Semaru! Kaigun Saikyou no Fujin Kansei!,10/11/2007,146,8.1
+460,Marineford,Kyodai Kantai Arawaru: Shuurai! Shirohige Kaizokudan,17/11/2007,154,8.2
+461,Marineford,Kessen no Makuake! Ace to Shirohige no Kako,24/11/2007,174,8.4
+462,Marineford,Sekai o Horobosu Chikara! Guragura no Mi no Nouryoku,01/12/2007,154,8.2
+463,Marineford,Subete o Yakitsukusu!! Taishou Akainu no Chikara!,08/12/2007,162,8.5
+464,Marineford,Majin no Shison! Little Oars Jr. Bakushin!,15/12/2007,150,8.3
+465,Marineford,Shousha dake ga Seigi Hatsudou! Sengoku no Sakusen!,22/12/2007,155,8.4
+466,Marineford,Mugiwara Team Touchaku Fuunkyuu o Tsugeru Senjou,29/12/2007,186,8.7
+467,Marineford,Shinde mo Tasukeru: Luffy vs Kaigun Battle Start,05/01/2008,174,8.7
+468,Marineford,Gekisen no Renzoku! Nouryokusha Gundan VS Nouryokusha Gundan,12/01/2008,158,8.6
+469,Marineford,Kuma ni Okita Ihen Iva-san Ikari no Ichigeki,19/01/2008,151,8.3
+470,Marineford,Kengou Mihawk Luffy ni Semaru Kokutou no Zangeki,26/01/2008,155,8.5
+471,Marineford,Senmetsu Sakusen Shidou: Pacifista Gundan no Iryoku,02/02/2008,151,8.4
+472,Marineford,Akainu no Bouryaku! Otoshiirerareta Shirohige,09/02/2008,153,8.3
+473,Marineford,Houiheki Sadou! Shirohige Kaizokudan Zettaizetsumei!!,16/02/2008,150,8.4
+474,Marineford,Shokei Shikkou Shirei Kudaru: Houiheki o Toppa Seyo!,23/02/2008,180,8.5
+475,Marineford,Saishuu Kyokumen Totsunyuu! Shirohige Kishikaisei no Itte,01/03/2008,154,8.6
+476,Marineford,Luffy Chikaratsuku! Oris Hiroba no Souryokusen!!,08/03/2008,158,8.4
+477,Marineford,Inochi o Kezuru Chikara: Tension Hormone Futatabi,15/03/2008,147,8.4
+478,Marineford,Yakusoku no Tame ni!! Gekitou! Luffy to Coby,22/03/2008,175,8.6
+479,Marineford,Shokeidai Mokuzen! Hirakareta Ace e no Michi!!,29/03/2008,155,8.4
+480,Marineford,Sorezore no Eranda Michi: Luffy vs Garp!,05/04/2008,179,8.6
+481,Marineford,Ace Kyuushutsu! Shirohige Saigo no Senchou Meirei!,12/04/2008,218,8.9
+482,Marineford,Hi o mo Yaki Tsukusu Chikara: Akainu Hijou no Tsuigeki,19/04/2008,334,9.1
+483,Marineford,Kotae o Sagashite: Hiken Ace Senjou ni Shisu,26/04/2008,524,9.3
+484,Marineford,Kaigun Honbu Houkai! Shirohige Kotobanaki Ikari!,03/05/2008,285,9.0
+485,Marineford,Kejime o Tsukeru: Shirohige vs Kurohige Kaizokudan,10/05/2008,370,9.3
+486,Marineford,Show no Kaimaku: Akasareta Kurohige no Takurami,17/05/2008,192,8.6
+487,Marineford,Akainu no Shuunen! Luffy o Osou Magma no Kobushi,24/05/2008,171,8.4
+488,Marineford,Hisshi no Sakebi: Unmei o Kaeru Yuuki Aru Suubyou,31/05/2008,223,8.7
+489,Marineford,Shanks Kenzan! Choujou Sensou Tsui ni Shuuketsu,07/06/2008,245,8.8
+490,Marineford,Gun'yuu Kakkyo Su!  ,14/06/2008,187,8.5
+491,Marineford,Nyougashima Jouriku: Luffy o Semeru Kakoku na Genjitsu,21/06/2008,137,8.0
+492,Marineford,Saikyou Tag! Funtou Luffy to Toriko!,28/06/2008,117,6.2
+493,Marineford,Luffy to Ace: Kyoudai no Deai no Monogatari!,05/07/2008,148,8.0
+494,Marineford,Sabo Toujou! Gray Terminal no Shounen,12/07/2008,135,7.9
+495,Marineford,Ore wa Nigenai: Ace Kesshi no Kyuushutsu Sakusen,19/07/2008,125,7.7
+496,Marineford,Itsuka Umi e! Sannin no Akudou Chikai no Sakazuki!,26/07/2008,124,7.8
+497,Marineford,Dadan Ikka to no Wakare!? Kansei! Himitsu Kichi,02/08/2008,125,7.7
+498,Marineford,Luffy Deshiiri!? Kaizoku Ou to Tatakatta Otoko!,09/08/2008,123,7.3
+499,Marineford,Ootora to no Kessen! Senchou ni Naru no wa Dare Da!,16/08/2008,122,7.4
+500,Marineford,Ubawareta Jiyuu! Sankyoudai ni Semaru Kizoku no Wana,23/08/2008,121,7.7
+501,Marineford,Hanatareta Honoo: Gray Terminal no Kiki,30/08/2008,125,7.6
+502,Marineford,Jiyuu wa Doko ni Aru? Shounen no Kanashiki Funade,06/09/2008,122,7.6
+503,Marineford,Yoroshiku Tanomu! Kyoudai kara Todoita Tegami!,13/09/2008,135,8.2
+504,Marineford,Yakusoku o Hatasu Tame: Sorezore no Tabidachi!,20/09/2008,130,7.8
+505,Marineford,Aitsura ni Aitee! Luffy Namida no Sakebi,27/09/2008,138,8.1
+506,Marineford,Mugiwara no Ichimi Gekishin! Motarasareta Kyouhou,04/10/2008,127,7.8
+507,Marineford,Meiou Rayleigh to no Saikai: Luffy Ketsudan no Toki,11/10/2008,131,7.8
+508,Marineford,Senchou no Moto e: Sorajima no Datsugoku to Fuyujima no Jiken,18/10/2008,128,7.4
+509,Marineford,Sesshoku! Daikengou Mihawk: Zoro Iji no Shitou,25/10/2008,126,7.7
+510,Marineford,Sanji no Junan: Oukoku e to Kikan Shita Joou!,01/11/2008,128,7.6
+511,Marineford,Masaka no Saijouriku! Luffy Marineford e!,08/11/2008,134,7.7
+512,Marineford,Nakama ni Todoke: Kakemeguru Dai News!,15/11/2008,127,7.7
+513,Marineford,Ugokidasu Kaizoku-tachi! Kyoutendouchi no Shinsekai,22/11/2008,127,7.3
+514,Marineford,Jigoku o Ikinuke: Sanji Otoko o Kaketa Shoubu,29/11/2008,125,7.2
+515,Marineford,Madamada Tsuyoku Naru! Zoro Senchou e no Chikai,06/12/2008,129,7.7
+516,Gyojin,Luffy Shugyou Kaishi: 2-nengo ni Yakusoku no Basho de,13/12/2008,162,8.4
+517,Gyojin,Shinshou Kaimaku: Saishuuketsu! Mugiwara no Ichimi,20/12/2008,204,8.4
+518,Gyojin,Isshokusokuhatsu! Luffy Tai Nise Luffy,27/12/2008,145,7.9
+519,Gyojin,Kaigun Shutsudou: Nerawareta Mugiwara no Ichimi,03/01/2009,141,7.8
+520,Gyojin,Oomono Shuuketsu: Nise Mugiwara Ichimi no Kyoui,10/01/2009,142,7.7
+521,Gyojin,Sentou Kaishi! Misero Shugyou no Seika!,17/01/2009,183,8.6
+522,Gyojin,Zen'in Shuugou: Luffy Shinsekai e no Funade,24/01/2009,138,8.1
+523,Gyojin,Kyougaku no Shinjitsu: Sunny-gou o Mamotta Otoko,31/01/2009,128,7.7
+524,Gyojin,Kaichuu no Shitou: Arawareta Oounabara no Akuma,07/02/2009,127,7.4
+525,Gyojin,Shinkai de Sounan: Hagureta Mugiwara no Ichimi,14/02/2009,118,7.6
+526,Gyojin,Kaitei Kazan Funka! Nagasarete Gyojintou,21/02/2009,118,7.6
+527,Gyojin,Gyojintou Jouriku: Uruwashiki Ningyo-tachi,28/02/2009,118,7.7
+528,Gyojin,Koufun Bakuhatsu! Sanji Seimei no Kiki!,07/03/2009,122,7.4
+529,Gyojin,Gyojintou Metsubou!? Sharley no Yogen,14/03/2009,125,7.3
+530,Gyojin,Gyojintou no Ou: Kaishin Neptune!,21/03/2009,120,7.5
+531,Gyojin,Ryuuguujou! Tasuketa Same ni Tsurerarete,28/03/2009,122,7.2
+532,Gyojin,Yowamushi de Nakimushi! Koukakutou no Ningyo Hime,04/04/2009,121,7.4
+533,Gyojin,Kinkyuu Jitai Hassei: Senkyo Sareta Ryuuguujou,11/04/2009,120,7.3
+534,Gyojin,Ryuuguujou Gekishin! Shirahoshi Yuukai Jiken,18/04/2009,128,7.6
+535,Gyojin,Hody Shuurai: Fukushuu Keikaku no Hajimari,25/04/2009,120,7.4
+536,Gyojin,Ryuuguujou no Kessen! Zoro Tai Hody,02/05/2009,120,7.7
+537,Gyojin,Shirahoshi o Mamore: Decken no Tsuigeki,09/05/2009,119,7.7
+538,Gyojin,Ichimi Haiboku!? Hody Ryuuguujou Seiatsu,16/05/2009,119,7.6
+539,Gyojin,Yomigaeru Innen! Nami to Gyojin Kaizokudan!,23/05/2009,121,7.4
+540,Gyojin,Dorei Kaihou no Eiyuu: Boukenka Tiger,30/05/2009,129,7.6
+541,Gyojin,Kizaru Toujou! Tiger o Nerau Wana!,06/06/2009,124,7.8
+542,Gyojin,Team Kessei! Chopper o Sukue,13/06/2009,115,6.3
+543,Gyojin,Eiyuu no Saigo: Tiger Shougeki no Shinjitsu,20/06/2009,126,7.8
+544,Gyojin,Kaizokudan Bunretsu: Jinbe Tai Arlong,27/06/2009,123,7.4
+545,Gyojin,Yureru Gyojintou! Hyouchaku Shita Tenryuubito,04/07/2009,121,7.3
+546,Gyojin,Totsuzen no Higeki! Mirai o Tozasu Kyoudan,11/07/2009,121,7.7
+547,Gyojin,Futatabi Genzai e! Ugokidasu Hody,18/07/2009,116,7.6
+548,Gyojin,Oukoku Gekishin: Neptune Shokei Shirei,25/07/2009,116,7.6
+549,Gyojin,Shoujita Kiretsu! Luffy Tai Jinbe,01/08/2009,117,7.7
+550,Gyojin,Hody no Ihen: Kyouyaku no Shin no Chikara!,08/08/2009,117,7.2
+551,Gyojin,Kessen Hajimaru: Gyoncorde Hiroba!,15/08/2009,119,7.1
+552,Gyojin,Shougeki no Kokuhaku: Otohime Ansatsu no Shinjitsu,22/08/2009,119,7.3
+553,Gyojin,Shirahoshi no Namida! Luffy Tsui ni Toujou,29/08/2009,124,7.7
+554,Gyojin,Dai Gekitotsu! Mugiwara Ichimi VS 10 Man no Teki,05/09/2009,139,8.3
+555,Gyojin,Oowaza Sakuretsu! Zoro Sanji Shutsugeki!,12/09/2009,119,7.7
+556,Gyojin,Hatsu Hirou! Sunny Gou no Himitsu Heiki!,19/09/2009,120,7.5
+557,Gyojin,Iron Pirate! Franky Shougun Toujou,26/09/2009,115,7.3
+558,Gyojin,Noah Sekkin! Gyojintou Kaimetsu no Kiki!,03/10/2009,119,7.2
+559,Gyojin,Isoge Luffy! Shirahoshi Zettaizetsumei,10/10/2009,119,7.0
+560,Gyojin,Gekitou Kaishi! Luffy Tai Hody!,17/10/2009,123,7.2
+561,Gyojin,Dairansen! Ichimi Tai Shin Gyojin Kaizokudan!,24/10/2009,124,7.3
+562,Gyojin,Luffy Haiboku!? Hody Fukushuu no Toki,31/10/2009,119,6.8
+563,Gyojin,Shougeki no Jijitsu! Hody no Shoutai!,07/11/2009,118,6.9
+564,Gyojin,Zero ni! Luffy e no Atsuki Negai!,14/11/2009,117,7.1
+565,Gyojin,Luffy Konshin no Ichigeki! Red Hawk Sakuretsu,21/11/2009,122,7.6
+566,Gyojin,Tsui ni Kecchaku! Hody Saishuu Kessen,28/11/2009,116,7.4
+567,Gyojin,Tomare Noah! Kesshi no Elephant Gatling!,05/12/2009,119,7.3
+568,Gyojin,Mirai e! Taiyou e to Tsuzuku Michi!,12/12/2009,123,7.3
+569,Gyojin,Akasareta Himitsu: Kodai Heiki no Shinjitsu,19/12/2009,122,7.2
+570,Gyojin,Ichimi Kyougaku! Aratanaru Kaigun Gensui!,26/12/2009,122,7.8
+571,Gyojin,Okashizuki! Yonkou Big Mom,02/01/2010,120,7.6
+572,Gyojin,Zento Tanan: Shin Sekai ni Machiukeru Wana,09/01/2010,116,7.4
+573,Gyojin,Tsui ni Shukkou! Sayonara Gyojin-tou,16/01/2010,118,7.3
+574,Gyojin,Shin Sekai e! Saikyou no Umi o Mezashite,23/01/2010,116,7.3
+575,Dressrosa,Z no Yabou Hen: Chiisana Kyojin Lily!,30/01/2010,106,7.0
+576,Dressrosa,Z no Yabou Hen: Nazo no Saikyou Gundan Toujou!,06/02/2010,109,7.0
+577,Dressrosa,Z no Yabou Hen: Kesshi no Dai Dasshutsu Sakusen!,13/02/2010,110,6.9
+578,Dressrosa,Z no Yabou Hen: Luffy VS Shuzo!,20/02/2010,121,6.7
+579,Dressrosa,Jouriku! Moeru Shima Punk Hazard,27/02/2010,126,7.4
+580,Dressrosa,Shakunetsu no Tatakai! Luffy Tai Kyodai Ryuu!,06/03/2010,120,7.2
+581,Dressrosa,Ichimi Souzen! Shougeki no Kubi dake Samurai Toujou!,13/03/2010,119,7.0
+582,Dressrosa,Kyougaku! Tsui ni Akasareru Shima no Himitsu,20/03/2010,118,7.2
+583,Dressrosa,Kodomo-tachi o Sukue! Ichimi Sentou Kaishi,27/03/2010,117,7.0
+584,Dressrosa,Kenjutsu Shoubu: Brook Tai Nazo no Doutai Samurai,03/04/2010,115,7.4
+585,Dressrosa,Shichibukai! Trafalgar Law,10/04/2010,118,7.5
+586,Dressrosa,Dai Pinch: Luffy Gokkan no Mizuumi ni Shizumu,17/04/2010,116,7.5
+587,Dressrosa,Gekitotsu! Law VS Smoker Chuujou,24/04/2010,118,7.9
+588,Dressrosa,2 Nenburi no Saikai! Luffy to Law,01/05/2010,115,7.5
+589,Dressrosa,Sekai Saiaku Kyoufu no Kagakusha Caesar,08/05/2010,114,7.3
+590,Dressrosa,Jijou Saikyou Colabo VS Umi no Taishokukan,15/05/2010,122,5.9
+591,Dressrosa,Chopper Gekido Master Hidounaru Jikken,22/05/2010,115,7.3
+592,Dressrosa,Ichimi Massatsu! Densetsu no Koroshiya Raishuu!,29/05/2010,117,7.0
+593,Dressrosa,Nami o Sukue! Luffy Yukiyama no Tatakai,05/06/2010,118,7.4
+594,Dressrosa,Kessei! Luffy-Law Kaizoku Doumei!,12/06/2010,120,7.6
+595,Dressrosa,Master o Toraero: Kaizoku Doumei Sakusen Kaishi!,19/06/2010,114,7.3
+596,Dressrosa,Zenmetsu no Kiki: Shi no Monster Hirai,26/06/2010,115,7.3
+597,Dressrosa,Dai-Gekisen: Caesar Shin no Nouryoku Hatsudou!,03/07/2010,114,7.7
+598,Dressrosa,Honoo Kirisaku Samurai! Kitsunebi no Kin'emon!,10/07/2010,114,7.3
+599,Dressrosa,Shougeki! Nazo no Otoko Vergo no Shoutai!,17/07/2010,117,7.4
+600,Dressrosa,Kodomo-tachi o Mamore! Semaru Master no Ma no Te,24/07/2010,117,7.2
+601,Dressrosa,Shin Sekai Gekishin: Caesar Akumu no Jikken,31/07/2010,117,7.3
+602,Dressrosa,Shijou Saiaku no Satsuriku Heiki! Shinokuni,07/08/2010,114,7.3
+603,Dressrosa,Hangeki Kaishi! Luffy-Law Daidasshutsu,14/08/2010,115,7.6
+604,Dressrosa,Mezase R-tou! Kaizoku Doumei Kaishingeki!,21/08/2010,115,7.4
+605,Dressrosa,Tashigi no Namida: G-5 Kesshi no Toppa Sakusen,28/08/2010,118,7.1
+606,Dressrosa,Uragiri no Chuujou! Kichiku no Vergo,04/09/2010,117,7.3
+607,Dressrosa,Hakunetsu no Gekisen: Luffy VS Caesar,11/09/2010,115,7.9
+608,Dressrosa,Yami no Kuromaku! Doflamingo Ugoku!,18/09/2010,117,7.4
+609,Dressrosa,Luffy Toushi!? Kyoufu no Yukionna Monet!,25/09/2010,117,7.4
+610,Dressrosa,Butsukaru Kobushi! Futari no Chuujou no Tatakai,02/10/2010,117,7.2
+611,Dressrosa,Chiisana Dragon! Momonosuke Arawaru,09/10/2010,116,7.2
+612,Dressrosa,Fubuki no Shitou: Mugiwara no Ichimi Tai Yukionna,16/10/2010,115,7.4
+613,Dressrosa,Ougi Sakuretsu! Zoro Saikyou no Ittou-ryuu!,23/10/2010,130,8.0
+614,Dressrosa,Tomodachi o Mamoru! Mocha Inochi-gake no Tousou,30/10/2010,120,7.5
+615,Dressrosa,Chahige Hitsuu! Luffy Ikari no Ichigeki,06/11/2010,116,7.6
+616,Dressrosa,Shougeki no Kecchaku! Smoker Tai Vergo!,13/11/2010,136,8.2
+617,Dressrosa,Caesar Gekiha! Saikyou no Grizzly Magnum,20/11/2010,123,7.7
+618,Dressrosa,Shuurai! Dressrosa kara no Shikaku,27/11/2010,115,7.5
+619,Dressrosa,Ooabare! Muteki no Franky Shougun,04/12/2010,119,7.6
+620,Dressrosa,Zettai Zetsumei! Punk Hazard Dai-Bakuhatsu,11/12/2010,122,7.7
+621,Dressrosa,Caesar o Hokaku-seyo - General Canon Sakuretsu,18/12/2010,122,7.8
+622,Dressrosa,Kandou no Saikai! Momonosuke to Kin'emon,25/12/2010,122,7.6
+623,Dressrosa,Sekibetsu no Toki - Punk Hazard Shukkou!,01/01/2011,123,7.4
+624,Dressrosa,G-5 Kaimetsu! Doflamingo Kyuushuu!,08/01/2011,136,7.9
+625,Dressrosa,Kinpaku! Aokiji tai Doflamingo,15/01/2011,133,7.8
+626,Dressrosa,Kieta Caesar! Kaizoku Doumei Shutsugeki,22/01/2011,115,6.9
+627,Dressrosa,Luffy Umi ni Shisu!? Kaizoku Doumei Houkai,29/01/2011,114,6.8
+628,Dressrosa,Daigyakuten! Sakuretsu Luffy Ikari no Tekken,05/02/2011,112,6.7
+629,Dressrosa,Gekishin! Shinsekai Ugokasu Dai News,12/02/2011,136,7.9
+630,Dressrosa,Bouken! Ai to Jounetsu no Kuni Dressrosa,19/02/2011,130,7.9
+631,Dressrosa,Nekkyou Uzumaku: Corrida Colosseum,26/02/2011,137,8.0
+632,Dressrosa,Kiken na Koi: Odoriko Violet,05/03/2011,126,7.8
+633,Dressrosa,Saikyou no Mumei Senshi! Lucy Toujou,12/03/2011,126,7.8
+634,Dressrosa,Kaizoku Kikoushi Cavendish,19/03/2011,125,7.8
+635,Dressrosa,Unmei no Saikai: Hyena no Bellamy,26/03/2011,126,7.9
+636,Dressrosa,Choushinsei! Hitokui no Bartolomeo,02/04/2011,125,7.9
+637,Dressrosa,Gun'yuu Kakkyo! Hakunetsu no B Block!,09/04/2011,120,7.9
+638,Dressrosa,Ichigeki Hissatsu! Kyoui no King Punch,16/04/2011,126,7.9
+639,Dressrosa,Tougyo Shuurai! Shi no Tekkyou o Toppa Seyo,23/04/2011,122,7.7
+640,Dressrosa,Bouken! Yousei no Shima Green Bit,30/04/2011,119,7.4
+641,Dressrosa,Shirarezaru Sekai Tontatta Oukoku,07/05/2011,120,7.5
+642,Dressrosa,Seiki no Bouryaku: Doflamingo Ugoku,14/05/2011,122,8.0
+643,Dressrosa,Tenchi Yurugasu! Taishou Fujitora no Jitsuryoku,21/05/2011,126,8.1
+644,Dressrosa,Ikari no Ichigeki! Kyojin vs Lucy,28/05/2011,124,7.8
+645,Dressrosa,Hakai-hou Sakuretsu! Lucy Kikiippatsu,04/06/2011,121,7.4
+646,Dressrosa,Densetsu no Kaizoku - Don Chinjao!,11/06/2011,148,8.3
+647,Dressrosa,Hikari to Kage - Dressrosa ni Hisomu Yami!,18/06/2011,119,7.6
+648,Dressrosa,Shutsugeki - Densetsu no Hero Usoland,25/06/2011,118,7.7
+649,Dressrosa,Gekisen Kecchaku! Lucy VS Chinjao!,02/07/2011,134,8.1
+650,Dressrosa,Luffy to Shukumei no Ken Toushi Rebecca,09/07/2011,118,7.9
+651,Dressrosa,Mamorinuku! Rebecca to Omocha no Heitai,16/07/2011,115,7.8
+652,Dressrosa,Saigo no Chou Gekisen Ku - D Block Kaisen,23/07/2011,114,7.6
+653,Dressrosa,Kessen! Joura vs Mugiwara no Ichimi,30/07/2011,113,7.6
+654,Dressrosa,Yoshiken! Hakuba no Cavendish,06/08/2011,119,7.9
+655,Dressrosa,Dai Kessen! Sanji VS Doflamingo,13/08/2011,138,8.1
+656,Dressrosa,Rebecca no Shi no Ken! Haisui no Kenbu,20/08/2011,118,7.8
+657,Dressrosa,Saikyou no Senshi! Logan vs Rebecca,27/08/2011,114,7.6
+658,Dressrosa,Shougeki! Omocha no Heitai no Shoutai!,03/09/2011,112,7.8
+659,Dressrosa,Senritsu no Kako! Dressrosa no Himitsu,10/09/2011,117,8.0
+660,Dressrosa,Akumu! Dressrosa Higeki no Ichiya,17/09/2011,119,8.0
+661,Dressrosa,Shichibukai Taiketsu Law VS Doflamingo,24/09/2011,141,8.4
+662,Dressrosa,Ryouyuu Aimamieru! Mugiwara to Ten Yasha,01/10/2011,139,8.4
+663,Dressrosa,Luffy Kyougaku: Ace no Ishi o Tsugu Otoko,08/10/2011,201,8.9
+664,Dressrosa,SOP Sakusen Kaishi: Usoland Totsugeki,15/10/2011,113,7.6
+665,Dressrosa,Atsuki Omoi - Rebecca vs. Suleiman,22/10/2011,113,7.6
+666,Dressrosa,Shousha Kettei!? D Block Shougeki no Ketsumatsu,29/10/2011,112,7.8
+667,Dressrosa,Taishou no Ketsudan - Fujitora vs. Doflamingo,05/11/2011,118,7.8
+668,Dressrosa,Kesshou Kaishi: Eiyuu Diamante Toujou,12/11/2011,115,7.8
+669,Dressrosa,Ugoku Shiro! Saikou Kanbu Pica Shutsugen,19/11/2011,116,7.8
+670,Dressrosa,Ryuu no Tsume Sakuretsu! Lucy Kyoui no Ichigeki!,26/11/2011,121,8.0
+671,Dressrosa,Tatou Sugar: Kodomo no Heitai Totsugeki!,03/12/2011,112,7.8
+672,Dressrosa,Saigo no Hikari: Warera ga Taichou no Himitsu!,10/12/2011,113,7.8
+673,Dressrosa,Panku Ningen: Gladius Dai Bakuhatsu!,17/12/2011,111,7.8
+674,Dressrosa,Usotsuki Usoland Tousouchuu!,24/12/2011,115,7.8
+675,Dressrosa,Unmei no Deai: Kyros to Riku Ou,31/12/2011,124,8.1
+676,Dressrosa,Sakusen Shippai! Eiyuu Usoland Shisu!?,07/01/2012,124,8.0
+677,Dressrosa,Densetsu Fukkatsu! Kyros Konshin no Ichigeki,14/01/2012,169,8.6
+678,Dressrosa,Kaken Sakuretsu! Fukkatsu Meramera no Mi no Chikara,21/01/2012,162,8.6
+679,Dressrosa,Sassou Toujou: Kakumeigun Sanbou Souchou Sabo!,28/01/2012,122,8.1
+680,Dressrosa,Akuma no Wana: Dressrosa Senmetsu Sakusen,04/02/2012,117,8.1
+681,Dressrosa,Go-oku no Otoko: Nerawareta Usoland!,11/02/2012,116,7.9
+682,Dressrosa,Tekijin Toppa: Luffy Zoro Hangeki Kaishi,18/02/2012,114,7.6
+683,Dressrosa,Daichi Meidou: Hakai Kami Kyoudai Pica Kourin,25/02/2012,114,7.9
+684,Dressrosa,Daishuuketsu! Luffy to Kyouaku Senshi Gundan,03/03/2012,112,7.8
+685,Dressrosa,Kaishingeki! Luffy Gundan vs Pica!,10/03/2012,118,8.0
+686,Dressrosa,Shougeki Kokuhaku! Law Atsuki Tamashii no Chikai!,17/03/2012,117,7.9
+687,Dressrosa,Daigekitotsu! Sanbou Souchou Sabo vs Taishou Fujitora,24/03/2012,142,8.2
+688,Dressrosa,Zettaizetsumei: Wana ni Kakatta Luffy!,31/03/2012,123,7.9
+689,Dressrosa,Daidasshutsu! Luffy Kishikaisei no Elephant Gun,07/04/2012,122,7.9
+690,Dressrosa,Kyoudousensen: Luffy Shouri e no Toppakou,14/04/2012,121,7.6
+691,Dressrosa,Futarime no Samurai: Yuudachi Kanjuurou Toujou,21/04/2012,116,7.7
+692,Dressrosa,Funtou to no Pica: Zoro Ichi Todome no Ichigeki,28/04/2012,125,8.2
+693,Dressrosa,Kobito no Hime: Toraware no Mansherry,05/05/2012,116,7.5
+694,Dressrosa,Fujimi! Kyoufu no Atamawari Ningyou Gundan,12/05/2012,116,7.4
+695,Dressrosa,Inochi Kakete! Luffy wa Shouri no Kirifuda,19/05/2012,121,8.0
+696,Dressrosa,Namida no Saikai: Rebecca to Kyros,26/05/2012,120,8.2
+697,Dressrosa,Ichigeki Hissatsu: Dressrosa o Sukuu Otoko,02/06/2012,137,8.4
+698,Dressrosa,Ikari Bakuhatsu: Luffy Law Saikyou no Hisaku,09/06/2012,179,8.8
+699,Dressrosa,Kedakaki Ichizoku! Doflamingo no Shoutai!,16/06/2012,136,8.5
+700,Dressrosa,Kyuukyoku no Chikara: Op-Op no Jitsu no Himitsu!,23/06/2012,124,8.2
+701,Dressrosa,Kanashiki Kioku: Shiroi Machi no Shounen Law!,30/06/2012,132,8.4
+702,Dressrosa,Tenryuubito! Doffy no Souzetsu Naru Kako,07/07/2012,133,8.3
+703,Dressrosa,Kunan no Michi: Law to Corazon Inochi no Tabi,14/07/2012,151,8.7
+704,Dressrosa,Toki Sameru! Op-Op no Mi o Ubae!,21/07/2012,137,8.6
+705,Dressrosa,Kakugo no Toki: Corazon Wakare no Egao!,28/07/2012,146,8.6
+706,Dressrosa,Yuke Law: Yasashiki Otoko Saigo no Tatakai!,04/08/2012,204,8.9
+707,Dressrosa,Jiyuu e! Law Injection Shot Sakuretsu,11/08/2012,116,8.0
+708,Dressrosa,Atsuki Tatakai: Law vs Doflamingo,18/08/2012,142,8.6
+709,Dressrosa,Kanbu Kessen: Hokori Takaki Hajrudin,25/08/2012,110,7.8
+710,Dressrosa,Ai no Kessen: Shintouryou Sai tai Baby 5,01/09/2012,109,8.0
+711,Dressrosa,Otoko no Iji: Bellamy Saigo no Totsugeki!,08/09/2012,110,8.0
+712,Dressrosa,Shippuudotou: Hakuba tai Dellinger,15/09/2012,110,8.1
+713,Dressrosa,Baribari: Homage Shinken Hatsudou!,22/09/2012,112,8.3
+714,Dressrosa,Iyashi no Hime: Mansherry o Sukue!,29/09/2012,102,7.8
+715,Dressrosa,Otoko no Kettou: Senor Ai no Banka,06/10/2012,121,8.3
+716,Dressrosa,Shi no Hoshikuzu: Diamante Moukou no Arashi,13/10/2012,113,8.2
+717,Dressrosa,Trueno Bastardo: Kyros Ikari no Ichigeki,20/10/2012,113,8.3
+718,Dressrosa,Daichi Oudan: Kyozou Pica Kishuu Sakusen!,27/10/2012,115,8.1
+719,Dressrosa,Kuuchuu Kessen: Zoro Shin Hissastsu Ougi Sakuretsu!,03/11/2012,262,9.1
+720,Dressrosa,Abayo! Bellamy Wakare no Ichigeki!,10/11/2012,125,8.4
+721,Dressrosa,Law Shisu: Luffy Fundo no Moukougeki!,17/11/2012,125,8.4
+722,Dressrosa,Shuunen no Yaiba: Gyakushuu no Gamma Knife!,24/11/2012,130,8.5
+723,Dressrosa,Haki Gekitotsu: Luffy tai Doflamingo,01/12/2012,190,8.9
+724,Dressrosa,Kougeki Funou: Trebol Shougeki no Himitsu,08/12/2012,124,8.4
+725,Dressrosa,Ikari Bakuhatsu: Ore ga Zenbu Hikiukeru,15/12/2012,158,8.6
+726,Dressrosa,Gear Fourth! Kyoui no Bounce Man!,22/12/2012,328,9.2
+727,Dressrosa,Daigyakushuu! Doflamingo no Kakusei!,29/12/2012,118,8.2
+728,Dressrosa,Luffy! Konshin no Leo Bazooka,05/01/2013,161,8.8
+729,Dressrosa,Kaen Ryuuou: Luffy no Inochi o Mamorinuke,12/01/2013,117,8.3
+730,Dressrosa,Kiseki no Namida: Mansherry no Tatakai!,19/01/2013,103,7.7
+731,Dressrosa,Inochi no Kagiri: Shi no Tori Kago o Tomero!,26/01/2013,110,7.4
+732,Dressrosa,Sei ka Shi ka: Unmei no Countdown,02/02/2013,109,7.9
+733,Dressrosa,Ten o Utsu: Luffy Ikari no King Kong Gun,09/02/2013,192,8.8
+734,Dressrosa,Jiyuu e! Yorokobi no Dressrosa!,16/02/2013,111,7.6
+735,Dressrosa,Zendaimimon: Taishou Fujitora Shougeki no Ketsudan!,23/02/2013,121,8.1
+736,Dressrosa,Gekishin Hashiru: Ugokidasu Saiaku no Sedai!,02/03/2013,128,8.5
+737,Dressrosa,Densetsu Tanjou: Kakumei Senshi Sabo no Bouken!,09/03/2013,113,8.2
+738,Dressrosa,Kyoudai no Kizuna: Luffy Sabo Saikai Hiwa,16/03/2013,115,8.2
+739,Dressrosa,Saikyou no Seibutsu: Yonkou - Hyakujuu no Kaidou,23/03/2013,179,8.7
+740,Dressrosa,Fujitora Ugoku: Mugiwara no Ichimi Kanzen Houimou,30/03/2013,105,7.8
+741,Dressrosa,Hijoujitai: Sarawareta Rebecca!,06/04/2013,107,7.8
+742,Dressrosa,Oyako no Kizuna: Kyros to Rebecca!,13/04/2013,107,7.7
+743,Dressrosa,Otoko no Iji: Luffy tai Fujitora Makkou Shoubu,20/04/2013,122,8.5
+744,Dressrosa,Nigeba Nashi: Taishou Fujitora Hijou no Tsuigeki!,27/04/2013,124,8.5
+745,Dressrosa,Kobun no Sakazuki: Kessei! Mugiwara Daisendan!,04/05/2013,142,8.5
+746,Dressrosa,Gun'yuukakyo: Arekuruu Shinsekai no Kaibutsu-tachi,11/05/2013,116,8.2
+747,Zou,Gin no Yousai: Luffy to Barto Daibouken,18/05/2013,109,4.9
+748,Zou,Chika Meikyuu: Luffy tai Torokko Ningen,25/05/2013,101,3.8
+749,Zou,Kengi Hakunetsu: Law Zoro Tsui ni Kenzan!,01/06/2013,96,4.7
+750,Zou,Zettaizetsumei: Luffy Kyokugen no Shakunetsu Kessen,08/06/2013,95,7.7
+751,Zou,Bouken Kaimaku: Maboroshi no Shima  ,15/06/2013,100,7.0
+752,Zou,Shin Shichi Bukai: Densetsu Shirohige no Musuko Toujou,22/06/2013,109,7.9
+753,Zou,Kesshi no Tozou: Kyozou no Se no Daibouken!,29/06/2013,106,7.4
+754,Zou,Sentou Kaishi: Luffy vs Mink-zoku!,06/07/2013,99,7.3
+755,Zou,Garchuu! Mugiwara no Ichimi Saishuuketsu,13/07/2013,101,7.4
+756,Zou,Hangeki Kaishi: Guruwara no Ichimi Daikatsuyaku!,20/07/2013,99,7.3
+757,Zou,Kyoui Shuurai: Hyakujuu Kaizokudan Jack!,27/07/2013,100,7.7
+758,Zou,Hiru no Ou: Inuarashi Koushaku Toujou!,03/08/2013,99,7.5
+759,Zou,Yoru no Ou: Nekomamushi no Danna Kenzan,10/08/2013,101,7.9
+760,Zou,Shuto Kaimetsu: Guruware no Ichimi Jouriku!,17/08/2013,103,7.9
+761,Zou,Limit Semaru: Mink-zoku to Ichimi no Kizuna!,24/08/2013,99,7.6
+762,Zou,Akudou Kikyou: Yonkou Big Mom no Shikaku,31/08/2013,102,8.0
+763,Zou,Shissou no Shinjitsu: Sanji Kyougaku no Shoutaijou,07/09/2013,102,8.0
+764,Zou,Yarou Domo e: Sanji Wakare no Okitegami,14/09/2013,107,8.1
+765,Zou,Nekomamushi no Danna ni Ai ni Ikou,21/09/2013,96,7.4
+766,Zou,Luffy Ketsudan: Sanji Dattai no Kiki!,28/09/2013,97,7.5
+767,Zou,Isshokusokuhatsu: Inu to Neko to Samurai!,05/10/2013,118,8.4
+768,Zou,Sanninme! Ninja Kiri no Raizou Toujou,12/10/2013,103,7.7
+769,Zou,Akai Ishi!  ,19/10/2013,110,7.8
+770,Zou,Wano Kuni no Himitsu: Kouzuki-ke to Rekishi no Ponegliffs,26/10/2013,116,8.3
+771,Zou,Okoto no Chikai: Luffy to Kouzuki Momonosuke,02/11/2013,105,7.7
+772,Zou,Densetsu no Koukai: Inu to Neko to Kaizokuou!,09/11/2013,96,7.6
+773,Zou,Akumu Futatabi: Fujimi no Jack Kyoushuu,16/11/2013,94,7.6
+774,Zou,Zou Boueisen: Luffy to Zunesha!,23/11/2013,101,7.8
+775,Zou,Zunesha o Sukue: Mugiwara Rescue Daisakusen!,30/11/2013,87,7.2
+776,Zou,Wakare no Gezou: Sanji Dakkan no Funade!,07/12/2013,92,7.6
+777,Zou,Reverie e: Oujo Vivi to Shirahoshi-hime,14/12/2013,95,7.1
+778,Zou,Reverie e: Rebecca to Sakura Oukoku,21/12/2013,89,7.3
+779,Zou,Kaidou Futatabi: Kyoui Semaru Saiaku no Sedai!,28/12/2013,91,7.6
+780,WholeCake,Harapeko Sensen: Luffy to Kaigun Rookie!,04/01/2014,82,7.2
+781,WholeCake,Shuunen no 3 Nin: Mugiwara Ichimi Dai Chase!,11/01/2014,80,7.3
+782,WholeCake,Akuma no Kobushi: Kessen! Luffy tai Grant,18/01/2014,84,7.4
+783,WholeCake,Sanji Kikyou: Big Mom no Nawabari e!,25/01/2014,88,7.6
+784,WholeCake,Rei to Yon: Souguu! Germa Double Six,01/02/2014,88,7.6
+785,WholeCake,Moudoku no Kiki: Luffy to Reiju!,08/02/2014,100,8.2
+786,WholeCake,Totto Land! Yonkou Big Mom Toujou,15/02/2014,98,7.6
+787,WholeCake,Yonkou no Musume: Sanji no Fiancee Purin,22/02/2014,95,7.6
+788,WholeCake,Dai Shingeki! Kui Wazurai no Mom,01/03/2014,86,7.6
+789,WholeCake,Shuto Houkai!? Big Mom to Jinbee,08/03/2014,90,7.7
+790,WholeCake,Yonkou No Shiro: Whole Cake Island Touchaku,15/03/2014,87,7.6
+791,WholeCake,Okashi na Mori: Luffy tai Luffy!?,22/03/2014,85,7.4
+792,WholeCake,Mom no Shikaku: Luffy to Yuuwaku no Mori!,29/03/2014,85,7.4
+793,WholeCake,Kaiyuu Kokka: Germa no Ou Judge,05/04/2014,93,7.5
+794,WholeCake,Oyako Taiketsu: Judge tai Sanji!,12/04/2014,88,7.6
+795,WholeCake,Kyoudai na Yabou: Big Mom to Caesar,19/04/2014,88,7.5
+796,WholeCake,Tamashii no Kuni: Mom no Osorubeki Nouryoku!,26/04/2014,84,7.5
+797,WholeCake,Daikanbu! Sanshousei Cracker Toujou!,03/05/2014,86,7.7
+798,WholeCake,8 Oku no Teki: Luffy tai Senshu no Cracker,10/05/2014,92,7.7
+799,WholeCake,Zenryoku Shoubu: Gear Fourth tai Bisbis no Chikara,17/05/2014,97,7.9
+800,WholeCake,Ichi to Ni: Shuuketsu! Vinsmoke-ke,24/05/2014,95,7.9
+801,WholeCake,Onjin no Inochi: Sanji to Owner Zeff,31/05/2014,95,7.7
+802,WholeCake,Ikari no Sanji: Germa Double Six no Himitsu,07/06/2014,95,8.3
+803,WholeCake,Suteta Kako: Vinsmoke Sanji,14/06/2014,100,8.5
+804,WholeCake,EastBlue e: Sanji Ketsui no Funade,21/06/2014,215,9.2
+805,WholeCake,Genkai Shoubu: Luffy to Mugen Biscuit,28/06/2014,106,8.5
+806,WholeCake,Manpuku no Chikara: Shin Gear Fourth Tan Man!,05/07/2014,125,8.8
+807,WholeCake,Kanashiki Kettou: Luffy tai Sanji (Zenpen),12/07/2014,169,8.3
+808,WholeCake,Kanashiki Kettou: Luffy tai Sanji (Kouhen),19/07/2014,571,9.6
+809,WholeCake,Fukushuu no Arashi: Ikari no Gundan Shuurai!,26/07/2014,114,8.5
+810,WholeCake,Bouken no Owari: Sanji Ketsui no Propose,02/08/2014,113,8.6
+811,WholeCake,Koko de Matsu: Luffy tai Ikari no Gundan,09/08/2014,106,8.5
+812,WholeCake,Chateau Sennyuu: Ubae! Road Ponegliff,16/08/2014,106,8.5
+813,WholeCake,Innnen no Taimen: Luffy to Big Mom!,23/08/2014,93,8.2
+814,WholeCake,Tamashii no Sakebi: Brook &amp,30/08/2014,97,8.3
+815,WholeCake,Sayonara: Purin Namida no Ketsui,06/09/2014,104,8.5
+816,WholeCake,Hidari Me no Innen: Pedro tai Tamago-Danshaku,13/09/2014,109,8.6
+817,WholeCake,Shikemoku: Sanji no Kekkon Zen'ya,20/09/2014,242,9.2
+818,WholeCake,Fukutsu no Soul: Brook tai Big Mom,27/09/2014,113,8.6
+819,WholeCake,Sora no Negai: Germa no Shippaisaku Sanji,04/10/2014,111,8.5
+820,WholeCake,Sanji no Moto e: Luffy Gyakushuu no Dai Gekisou!,11/10/2014,115,8.6
+821,WholeCake,Chateau Douran: Luffy Yakusoku no Basho e,18/10/2014,100,8.2
+822,WholeCake,Wakare no Ketsui: Sanji to Mugiwara Bentou,25/10/2014,91,7.6
+823,WholeCake,Yonkou no Negaeri: Brook Kyuushutsu Daisakusen!,01/11/2014,99,7.6
+824,WholeCake,The Rendezvous! Luffy a One-on-One at His Limit!,08/11/2014,102,8.1
+825,WholeCake,A Liar! Luffy and Sanji!!,15/11/2014,117,8.6
+826,WholeCake,Sanji Comes Back! Crash! The Tea Party from Hell!,22/11/2014,96,8.1
+827,WholeCake,A Secret Meeting! Luffy vs. the Fire Tank Pirates!,29/11/2014,94,7.6
+828,WholeCake,The Deadly Pact! Luffy and Bege,06/12/2014,86,7.4
+829,WholeCake,Luffy Engages in a Secret Maneuver! The Wedding Full of Consp...,13/12/2014,84,7.7
+830,WholeCake,The Family Gets Together! The Hellish Tea Party Starts!,20/12/2014,96,8.2
+831,WholeCake,The Broken Couple! Sanji and Pudding Enter!,27/12/2014,85,7.6
+832,WholeCake,A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!,03/01/2015,103,8.6
+833,WholeCake,Returning the Sake Cup! The Manly Jimbei Pays His Debt!,10/01/2015,194,9.1
+834,WholeCake,The Mission Failed?! The Big Mom Pirates Strike Back!,17/01/2015,88,8.3
+835,WholeCake,Run Sanji! SOS! Germa 66!,24/01/2015,87,8.3
+836,WholeCake,Mom's Secret! The Giant's Island Elbaph and a Little Monster!,31/01/2015,77,7.5
+837,WholeCake,The Birth of Mom! The Day That Carmel Vanished!,07/02/2015,84,8.1
+838,WholeCake,The Launcher Blasts! The Moment of Big Mom's Assassination!,14/02/2015,83,7.7
+839,WholeCake,The Evil Army! Transform! Germa 66!,21/02/2015,82,7.6
+840,WholeCake,Cutting the Father-Son Relationship! Sanji and Judge!,28/02/2015,83,7.4
+841,WholeCake,Escape From the Tea Party! Luffy vs. Big Mom!,07/03/2015,82,8.0
+842,WholeCake,The Execution Begins! Luffy's Allied Forces Are Annihilated?! ,14/03/2015,71,7.8
+843,WholeCake,The Chateau Collapses! The Straw Hat's Great Escape Begins!,21/03/2015,70,7.5
+844,WholeCake,The Spear of Elbaph! Onslaught! The Flying Big Mom!,28/03/2015,77,7.2
+845,WholeCake,Pudding's Determination! Ablaze! The Seducing Woods!,04/04/2015,76,7.6
+846,WholeCake,A Lightning Counterattack! Nami and Zeus the Thundercloud!,11/04/2015,76,7.6
+847,WholeCake,A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding!,18/04/2015,78,7.6
+848,WholeCake,Save the Sunny! Fighting Bravely! Chopper and Brook!,25/04/2015,79,7.4
+849,WholeCake,Before the Dawn! Pedro the Captain of the Guardians!,02/05/2015,138,8.8
+850,WholeCake,I'll Be Back! Luffy Deadly Departure!,09/05/2015,148,8.9
+851,WholeCake,The Man with a Bounty of Billion! The Strongest Sweet General...,16/05/2015,91,8.2
+852,WholeCake,A Hard Battle Starts! Luffy vs. Katakuri!,23/05/2015,94,8.3
+853,WholeCake,The Green Room! An Invincible Helmsman Jimbei!,30/05/2015,86,7.7
+854,WholeCake,The Threat of the Mole! Luffy's Silent Fight!,06/06/2015,90,8.1
+855,WholeCake,The End of the Deadly Battle?! Katakuri's Awakening in Anger!,13/06/2015,87,7.9
+856,WholeCake,The Forbidden Secret! Katakuri's Merienda!,20/06/2015,168,8.9
+856,WholeCake,Luffy Fights Back! The Invincible Katakuri's Weak Point!,27/06/2015,90,8.0
+858,WholeCake,Another Crisis! Gear Four vs. Unstoppable Donuts!,04/07/2015,84,7.5
+859,WholeCake,The Rebellious Daughter Chiffon! Sanji's Big Plan for Transp...,11/07/2015,79,7.2
+860,WholeCake,The Cake Sank?! Sanji and Bege's Getaway Battle!,18/07/2015,81,7.5
+861,WholeCake,The Cake Sank?! Sanji and Bege's Getaway Battle!,25/07/2015,77,7.3
+862,WholeCake,Sulong! Carrot's Big Mystic Transformation!,01/08/2015,114,8.5
+863,WholeCake,Break Through! The Straw Hat's Mighty Sea Battle!,08/08/2015,81,7.5
+864,WholeCake,Finally Clash - Yonko VS Straw Hat Crew,15/08/2015,87,7.7
+865,WholeCake,Dark King's Direct Precepts! The Battle Against Katakuri Turn...,22/08/2015,85,7.8
+866,WholeCake,Finally He Returns! Sanji the Man Who'll Stop the Emperor of...,29/08/2015,84,7.4
+867,WholeCake,Lurking in the Darkness! An Assassin Targeting Luffy!,05/09/2015,105,8.1
+868,WholeCake,One Man's Determination! Katakuri's Deadly Big Fight!,12/09/2015,252,9.1
+869,WholeCake,Wake Up! The Color of Observation Able to Top the Strongest!,19/09/2015,135,8.8
+870,WholeCake,A Fist of Divine Speed! Another Gear Four Application Activated!,26/09/2015,683,9.5
+871,WholeCake,Finally Concluded - An Outcome of the Fierce Battle with Kata...,03/10/2015,148,8.9
+872,WholeCake,A Desperate Situation! The Iron-Tight Entrapment of Luffy!,10/10/2015,92,8.1
+873,WholeCake,Pulling Back from the Brink! The Formidable Reinforcements - ...,17/10/2015,91,8.3
+874,WholeCake,The Last Hope! The Sun Pirates Emerge!,24/10/2015,83,7.9
+875,WholeCake,A Fascinating Taste - Sanji's Cake of Happiness,31/10/2015,96,8.0
+876,WholeCake,The Man of Humanity and Justice - Jinbe a Desperate Massive ...,07/11/2015,94,8.3
+877,WholeCake,Time for Farewell! Pudding's One Last Request!,14/11/2015,235,9.1
+878,Reverie,The World in Shock! The Fifth Emperor of the Sea Arrives!,21/11/2015,114,7.8
+879,Reverie,To the Levely! Gathering of the Straw Hat Allies!,28/11/2015,95,7.2
+880,Reverie,Sabo Goes into Action! All the Captains of the Revolutionary ...,05/12/2015,98,7.6
+881,Reverie,Going into Action! The Implacable New Admiral of the Fleet - ...,12/12/2015,120,5.6
+882,Reverie,The Paramount War! The Inherited Will of the King of the Pira...,19/12/2015,113,6.0
+883,Reverie,One Step Ahead of the Dream - Shirahoshi's Path to the Sun!,26/12/2015,106,6.2
+884,Reverie,I Miss Him! Vivi and Rebecca's Sentiments!,02/01/2016,107,6.3
+885,Reverie,In the Dark Recesses of the Holyland! A Mysterious Giant Stra...,09/01/2016,114,7.0
+886,Reverie,The Uproarious Holy Land - Princess Shirahoshi is being targe...,16/01/2016,118,6.8
+887,Reverie,On the Verge - The Two Yonko Targeting Luffy,23/01/2016,144,8.1
+888,Reverie,Sabo Gets Angry - Tragedy of the Revolutionary Army Officer Kuma,30/01/2016,121,7.8
+889,Reverie,Defeat is Inevitable - The Strawman's Fierce Attack!,06/02/2016,110,7.4
+890,Wano,Marco! The Keeper of Whitebeard's Last Memento!,13/02/2016,94,7.2
+891,Wano,Climbing Up a Waterfall! A Great Journey Through the Land of ...,20/02/2016,161,8.5
+892,Wano,Wano Country! To the Land of Dancing Sakura and Samurai,27/02/2016,340,9.2
+893,Wano,Otama Appears! Luffy vs. Kaido's Army!,05/03/2016,171,8.8
+894,Wano,He'll Come! The Legend of Ace in the Land of Wano!,12/03/2016,172,8.8
+895,Wano,Side Story! The World's Greatest Bounty Hunter Cidre!,19/03/2016,96,6.2
+896,Wano,Side Story! Clash! Luffy vs. the King of Carbonation!,26/03/2016,91,6.0
+897,Wano,Save Otama! Straw Hat Bounding through the Wasteland!,02/04/2016,145,8.5
+898,Wano,The Headliner! Hawkings the Magician Appears!,09/04/2016,134,8.4
+899,Wano,Defeat is Inevitable! The Strawman's Fierce Attack!,16/04/2016,185,8.9
+900,Wano,The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!,23/04/2016,121,8.4
+901,Wano,Entering Enemy Territory! The Protagonists Spread into the To...,30/04/2016,105,7.6
+902,Wano,The Yokozuna Appears! The Invincible Urashima Goes After Okiku!,07/05/2016,102,7.6
+903,Wano,A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yok...,14/05/2016,118,6.6
+904,Wano,Luffy Rages! Rescue Otama from Danger!,21/05/2016,107,6.8
+905,Wano,Fighting for Otama! Fight against Holdem!,28/05/2016,119,8.2
+906,Wano,Duel! The Magician and the Surgeon of Death!,04/06/2016,111,8.3
+907,Wano,Romance Dawn,11/06/2016,107,6.3
+908,Wano,The Coming of the Treasure Ship! Luffytaro Returns the Favor!,18/06/2016,114,8.3
+909,Wano,Nazo no Bohyo - Oden Joseki de no Saikai!,25/06/2016,144,8.6
+910,Wano,A Legendary Samurai! The Man Who Roger Admired!,02/07/2016,123,8.4
+911,Wano,Bringing Down the Emperor of the Sea! A Secret Raid Operation...,09/07/2016,108,7.9
+912,Wano,The Strongest Man in the World! Shutenmaru the Thieves Briga...,16/07/2016,245,9.0
+913,Wano,Everyone is Annihilated! Kaido's Furious Blast Breath!,23/07/2016,209,8.8
+914,Wano,Finally Clashing! The Ferocious Luffy vs. Kaido!,30/07/2016,397,9.2
+915,Wano,Hakai-teki! Ichigeki Hissatsu no Raimei Hakke!,06/08/2016,321,9.1
+916,Wano,Iki-jigoku! Rufi Kutsujoku no Dai Tankutsu-jo,13/08/2016,185,8.4
+917,Wano,The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!,20/08/2016,234,8.8
+918,Wano,Ugokidasu - Dato Kaido Daikeikaku!,27/08/2016,121,7.9
+919,Wano,Rampage! The Prisoners - Luffy and Kid!,03/09/2016,117,7.9
+920,Wano,Dai Hyoban! Sanji no Ohako Soba!,10/09/2016,116,7.6
+921,Wano,Goka Kenran - Wano Kuni Ichi no Bijo: Komurasaki,17/09/2016,129,6.7
+922,Wano,A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!,24/09/2016,122,7.9
+923,Wano,A State of Emergency! Big Mom Closes in!,01/10/2016,120,8.1
+924,Wano,The Capital in an Uproar! Another Assassin Targets Sanji!,08/10/2016,170,8.8
+925,Wano,Dashing! The Righteous Soba Mask!,15/10/2016,160,8.6
+926,Wano,Zettai Zetsumei - Kyoi no Orochi Oniwabanshu,22/10/2016,109,7.8
+927,Wano,Shura-jo! Osoreru Daija Shogun Orochi,29/10/2016,110,7.2
+928,Wano,The Flower Falls! The Final Moment of the Most Beautiful Woma...,05/11/2016,112,7.2
+929,Wano,The Bond Between Prisoners! Luffy and Old Man Hyo!,12/11/2016,109,7.1
+930,Wano,A Lead Performer! Queen the Plague Emerges!,19/11/2016,101,7.6
+931,Wano,Goes up. Luffy's Desperate Escape!,26/11/2016,97,7.2
+932,Wano,Dead or Alive! Queen's Sumo Inferno!,03/12/2016,105,7.7
+933,Wano,Gyukimaru! Zoro Fights a Duel on Bandit's Bridge,10/12/2016,145,8.3
+934,Wano,A Big Turnover! The Three-Sword Style Overcomes Danger!,17/12/2016,297,8.9
+935,Wano,Zoro Stunned! The Shocking Identity of the Mysterious Woman!,24/12/2016,104,7.8
+936,Wano,Get the Hang of It! The Land of Wano's Haki - Ryuo!,31/12/2016,103,7.5
+937,Wano,Tonoyasu! Ebisu's most beloved!,07/01/2017,93,7.5
+938,Wano,Shaking the nation. The identity of Ushimitsu Kozo,14/01/2017,97,7.2
+939,Wano,The Straw Hats are running! Save the captive Tonoyasu,21/01/2017,121,8.1
+940,Wano,Zoro's Fury! The Truth About the Smile!,28/01/2017,220,8.7
+941,Wano,Toko's Tears! Orochi's Pitiless Bullets!,04/02/2017,153,8.1
+942,Wano,The Straw Hats Step In! An Uproarious Deadly Battle at the Ex...,11/02/2017,142,8.2
+943,Wano,Luffy's Determination! Win Through the Sumo Inferno!,18/02/2017,120,8.1
+944,Wano,The Coming of the Storm! Big Mom's Great Rampage!,25/02/2017,107,7.6
+945,Wano,A Grudge Over Oshiruko - Luffy Gets into a Desperate Situation,04/03/2017,153,8.4
+946,Wano,Stop the Emperor of the Sea! Queen's Secret Plan!,11/03/2017,111,7.3
+947,Wano,The Ultimate Weapon! Excite Bullets Aimed at Luffy,18/03/2017,108,7.4
+948,Wano,Start Fighting Back! Luffy and the Red Scabbard Samurai!,25/03/2017,125,7.6
+949,Wano,We're Here to Win! Luffy's Desperate Scream!,01/04/2017,189,8.5
+950,Wano,Warriors' Dream! Luffy's Conquer of Udon!,08/04/2017,199,8.4
+951,Wano,Orochi's Pursuers! Ninja Army Corps vs. Zoro,15/04/2017,177,7.9
+952,Wano,Tension Rises in Onigashima! Two Emperors of the Sea Meet?!,22/04/2017,191,8.1
+953,Wano,Hiyori's Confession! Reunion on Oihagi Bridge,29/04/2017,249,8.0
+954,Wano,Its Name is Enma! Oden's Meito!,06/05/2017,302,7.7
+955,Wano,A New Alliance?! Kaidou's Army Gathers,13/05/2017,358,8.7
+956,Wano,Ticking Down to the Great Battle! The Straw Hats Go into Comb...,20/05/2017,353,8.2
+957,Wano,Big News! The Warlords Attack Incident,27/05/2017,2862,9.1
+958,Wano,A Legendary Battle! Garp and Roger,03/06/2017,1348,8.5
